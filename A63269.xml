@@ -1,0 +1,648 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of the causes and cure of sad disconsolate thoughts in Christians. By one of their sympathizing fellow-members, W. Traughton</title>
+            <author>Troughton, William, 1614?-1677?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63269</idno>
+            <idno type="STC">Wing T2317</idno>
+            <idno type="STC">ESTC R219353</idno>
+            <idno type="EEBO-CITATION">99830831</idno>
+            <idno type="PROQUEST">99830831</idno>
+            <idno type="VID">35285</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63269)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35285)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2083:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of the causes and cure of sad disconsolate thoughts in Christians. By one of their sympathizing fellow-members, W. Traughton</title>
+                  <author>Troughton, William, 1614?-1677?</author>
+                  <author>J. D., engraver.</author>
+               </titleStmt>
+               <extent>[12], 71, [13] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for Benjamin Harris, and are to be sold at his Shop, at the Stationers-Armes in Sweetings-Rents in Corn-hill, near the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Frontispiece signed: I.D. sc.</note>
+                  <note>Includes four final contents leaves and two advertisement leaves.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:35285:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <q>Lord heare my Cry—</q>
+                  <p>LONDON. Printed for Ben: Harris</p>
+                  <byline>I.D. ſc</byline>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:35285:1" rendition="simple:additions"/>
+            <p>OF THE <hi>Cauſes</hi> and <hi>Cure</hi> OF SAD Diſconſolate Thoughts IN CHRISTIANS.</p>
+            <p>BY One of their Sympathizing Fel<g ref="char:EOLhyphen"/>low-Members, W. Traughton.</p>
+            <p>LONDON, Printed for <hi>Benjamin Harris,</hi> and are to be ſold at his Shop, at the Stati<g ref="char:EOLhyphen"/>oners-Armes in <hi>Sweetings-Rents</hi> in <hi>Corn-hill,</hi> near the <hi>Royal Exchange,</hi> 1677.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:35285:2"/>
+            <pb facs="tcp:35285:2"/>
+            <head>EPISTLE. To a Penſive Diſconſolate <hi>SO<g ref="char:V">Ʋ</g>L.</hi>
+            </head>
+            <opener>
+               <salute>My dear Friend,</salute>
+            </opener>
+            <p>HAving taken theſe <hi>Notes</hi> on a ſubject of great con<g ref="char:EOLhyphen"/>cern (which may be much more inlarged) I did conſider with my ſelf that they might be very ſeaſonable and <hi>ſuitable</hi> to your caſe and condition; for you have been an <hi>afflicted</hi> ſoul for a long time, often complaining to God and Man of the <hi>darkneſs</hi> of your ſpirit, and the ſad and <hi>diſmal</hi> thoughts wherewith you
+<pb facs="tcp:35285:3"/>have been haunted and exceeding<g ref="char:EOLhyphen"/>ly <hi>diſquieted,</hi> as if no Mans con<g ref="char:EOLhyphen"/>dition were ſo ſad and <hi>dark</hi> and diſconſolate as yours: But yet there is no <hi>Temptation</hi> (as you may aſſure your ſelf) which hath ſeized on you, but other Chriſtians have had experience thereof; and God, who is <hi>Faith<g ref="char:EOLhyphen"/>ful,</hi> will with the <hi>Temptation</hi> alſo make a way to <hi>eſcape,</hi> that you may be able to bear it, <hi>1 Cor. 10.13.</hi>
+            </p>
+            <p>Bleſſed be God, you have a tender and gratious <hi>High Prieſt</hi> that undertakes for you; in that he himſelf hath <hi>ſuffered,</hi> being tempted, he is able to <hi>ſuccour</hi>
+               <pb facs="tcp:35285:3"/>them that are tempted, <hi>Heb. 2.18.</hi> We have not (ſaith the Apoſtle) a <hi>High Prieſt</hi> which cannot be <hi>touched</hi> with the feeling of our <hi>Infirmities,</hi> but was in all <hi>points tempted</hi> like as we are, yet with<g ref="char:EOLhyphen"/>out <hi>Sin;</hi> let us therefore come <hi>boldly</hi> unto the <hi>Throne</hi> of Grace, that we may obtain <hi>Mer<g ref="char:EOLhyphen"/>cy,</hi> and find <hi>Grace</hi> to help in time of need, <hi>Heb. 4.15, 16.</hi> He it is that <hi>gathers</hi> the weak <hi>Lambs</hi> with his <hi>Arm,</hi> and car<g ref="char:EOLhyphen"/>ryes them in his <hi>Boſom,</hi> and gent<g ref="char:EOLhyphen"/>ly <hi>leads</hi> thoſe that are with Young, <hi>Iſa. 40.11.</hi> He will not <hi>break</hi> the bruiſed <hi>Reed,</hi> nor quench the <hi>ſmoaking</hi> Flax, but will ſend
+<pb facs="tcp:35285:4"/>forth <hi>Judgment</hi> unto Victory, <hi>Math 12.20.</hi>
+            </p>
+            <p>This Merciful and Compaſſio<g ref="char:EOLhyphen"/>nate <hi>Jeſus</hi> never rejected any that came to him; and will he caſt you off if you come to Him with the <hi>burthen</hi> of your Sins, <hi>Sorrows,</hi> Temptations, <hi>Melancholick</hi> diſ<g ref="char:EOLhyphen"/>tempers? No, he will not; he hath <hi>promiſed</hi> he will not, <hi>Joh. 6.37.</hi> There's an <hi>Emphaſis</hi> in the Original, two <hi>Negatives,</hi> He will not in any <hi>wiſe,</hi> by any means caſt ye out: The <hi>doubled</hi> Nega<g ref="char:EOLhyphen"/>tives ſerve to make the <hi>Aſſertion</hi> ſo much the ſtronger, and to raiſe our Faith above all <hi>doubts</hi> and fears.</p>
+            <pb facs="tcp:35285:4"/>
+            <p>O then poor <hi>Soul,</hi> be not diſ<g ref="char:EOLhyphen"/>couraged, draw not back from <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he living God, through an <hi>evil</hi> heart of unbelief: Give not way to <hi>groundleſs</hi> Jealouſies and carnal <hi>Reaſonings;</hi> but believe, and you ſhall ſee the <hi>Glory</hi> of God in giving you ſpeedily a gracious <hi>Iſſue</hi> out of all your Temptations, and a comfortable <hi>deliverance</hi> from the ſad <hi>diſconſolate</hi> per<g ref="char:EOLhyphen"/>plexing thoughts of your own heart, which indeed is your great<g ref="char:EOLhyphen"/>eſt <hi>Enemy;</hi> for the heart is <hi>de<g ref="char:EOLhyphen"/>ceitful</hi> above all things, and <hi>deſ<g ref="char:EOLhyphen"/>perately</hi> wicked, who can know it? <hi>Jer. 17.9.</hi>
+            </p>
+            <p>Read over theſe <hi>Notes</hi> ſeri<g ref="char:EOLhyphen"/>ouſly,
+<pb facs="tcp:35285:5"/>and beg of God earneſtly to give you <hi>Grace</hi> to improve the ſeaſonable <hi>directions</hi> therein mentioned, and to teach you ef<g ref="char:EOLhyphen"/>fectually by his Spirit; for who <hi>Teacheth</hi> like him? <hi>Job 36.22.</hi> When he giveth <hi>Quietneſs,</hi> who then can cauſe <hi>Trouble?</hi> And when he hideth his <hi>Face,</hi> who then can <hi>behold</hi> Him? Whether it be done againſt a <hi>Nation,</hi> or a<g ref="char:EOLhyphen"/>gainſt a <hi>Man</hi> only, <hi>Job 34.29.</hi>
+            </p>
+            <p>If ye think the publiſhing of theſe <hi>Notes</hi> may tend to the Edi<g ref="char:EOLhyphen"/>fication and comfort of ſome other <hi>tempted</hi> afflicted ſouls, who are in the <hi>like</hi> condition with your ſelf, it is left to your <hi>Freedom</hi> to
+<pb facs="tcp:35285:5"/>get them publiſhed, otherwiſe you may make a private <hi>uſe</hi> of them for your ſelf and near <hi>Relations,</hi> as God ſhall <hi>direct</hi> and enable you; to whoſe Gracious Protecti<g ref="char:EOLhyphen"/>on I commend you and yours.</p>
+         </div>
+      </front>
+      <body>
+         <div type="book">
+            <pb facs="tcp:35285:6"/>
+            <pb n="1" facs="tcp:35285:6"/>
+            <head>THE CAUSES &amp; CURE OF SAD Diſconſolate Thoughts, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>Text: <hi>Pſal.</hi> 94.19.</bibl>
+                  <p>
+                     <hi>In the</hi> Multitude <hi>of my</hi> Thoughts <hi>within me, thy</hi> Comforts <hi>delight my</hi> Soul.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">S</seg>Ome <hi>Intérpreters</hi> under<g ref="char:EOLhyphen"/>ſtand this Text of that Heavenly Delight, which <hi>David</hi> found in Holy <hi>Meditation;</hi> a Work wherein he was much exer<g ref="char:EOLhyphen"/>ciſed, and whereof Spiritual <hi>Joy</hi> and
+<pb n="2" facs="tcp:35285:7"/>Delight is a Natural and <hi>Moral</hi> Ef<g ref="char:EOLhyphen"/>fect.</p>
+            <p>But, if we <hi>look</hi> more narrowly in<g ref="char:EOLhyphen"/>to the <hi>Context,</hi> we ſhall ſee that the Prophet ſpeaks not of <hi>Holy</hi> Thoughts and Meditation; but of <hi>Sad</hi> diſ<g ref="char:EOLhyphen"/>quieting and perplexing Thoughts, which did ariſe in his Heart; againſt which, he found the <hi>Conſolations</hi> of God to be the moſt effectual Reme<g ref="char:EOLhyphen"/>dy.</p>
+            <p>
+               <hi>Obſerv.</hi> That <hi>Saints</hi> ſhould watch againſt ſad, <hi>melancholly unbe<g ref="char:EOLhyphen"/>leiving</hi> diſconſolate Thoughts and Cogitations.</p>
+            <p>Hence it is, (even from their Un<g ref="char:EOLhyphen"/>beleif) that they are ſo apt to make <hi>ſad</hi> and diſmal Concluſions touching their <hi>Spiritual</hi> Eſtate: My <hi>Soul</hi> re<g ref="char:EOLhyphen"/>fuſed to be Comforted (ſaith <hi>David, Pſal.</hi> 77.2, 3, 7, 8, 9.) I <hi>remembred</hi> God, and was <hi>troubled:</hi> I complain<g ref="char:EOLhyphen"/>ed,
+<pb n="3" facs="tcp:35285:7"/>and my <hi>Spirit</hi> was over-whel<g ref="char:EOLhyphen"/>med: Will the Lord <hi>caſt</hi> off for ever, <hi>&amp;c?</hi> So <hi>Heman,</hi> that Godly <hi>wiſe</hi> Man, ſaith, <hi>Pſal.</hi> 88.4, 5. I am <hi>counted</hi> with them that go down in<g ref="char:EOLhyphen"/>to the <hi>Pit:</hi> I am as a Man that hath no <hi>Strength,</hi> free among the <hi>Dead,</hi> like the: <hi>Slain</hi> that lye in the <hi>Grave,</hi> whom Thou remembreſt no more, <hi>&amp;c.</hi>
+            </p>
+            <p>I will here deſcribe,
+<list>
+                  <item>1. What theſe <hi>ſad</hi> diſconſolate Thoughts are.</item>
+                  <item>2. The <hi>Cauſes</hi> of them.</item>
+                  <item>3. The <hi>Remedies</hi> of them.</item>
+                  <item>4. Give you ſome Helps and <hi>Directions</hi> againſt them.</item>
+               </list>
+            </p>
+            <p>Quaery, <hi>What do you mean by ſad</hi> diſ<g ref="char:EOLhyphen"/>conſolate <hi>Thoughts?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Such Thoughts I mean, as the <hi>Saints</hi> themſelves are exer<g ref="char:EOLhyphen"/>ciſed with, in reference to their Spi<g ref="char:EOLhyphen"/>ritual Condition; oft-times they have ſad uncomfortable <hi>Reflexions,</hi> heavy <hi>Burthens</hi> on their Souls, great <hi>Preſſures</hi> of Spirit: Why haft thou
+<pb n="4" facs="tcp:35285:8"/>ſet me as a <hi>mark</hi> againſt thee (ſaith <hi>Job,</hi> cap. 7. <hi>v.</hi> 20.) ſo that I am a <hi>Bur<g ref="char:EOLhyphen"/>then</hi> to my ſelf.</p>
+            <p>Quae. <hi>What are the</hi> Cauſes <hi>of theſe ſad thoughts?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> They are cauſed both by <hi>natural</hi> diſtempers of Body, and by ſpiritual <hi>distempers,</hi> or Soul preſſures.</p>
+            <p>
+               <hi>Firſt:</hi> Partly by <hi>bodily</hi> diſtempers, eſpecially by <hi>Melancholly,</hi> which is a <hi>black,</hi> cloudy, muddy diſtemper that darkens the <hi>Intellectuals,</hi> depraves the <hi>Fancy,</hi> ſaddens the <hi>Spirit</hi> of a Chriſtian, and renders his Conditi<g ref="char:EOLhyphen"/>on and Life uncomfortable to him; 'tis Satan's <hi>Chariot</hi> wherein he Try<g ref="char:EOLhyphen"/>umphantly rides; his <hi>Anvil,</hi> on which he continually beats; the E<g ref="char:EOLhyphen"/>lement or <hi>Bath,</hi> in which he Bathes himſelf. Though a Man have Grace and Spiritual experience and <hi>acquain<g ref="char:EOLhyphen"/>tance</hi> with God, yet if he be of a melancholly temper and conſtitu<g ref="char:EOLhyphen"/>tion, he cannot act chearfully as a
+<pb n="5" facs="tcp:35285:8"/>Chriſtian ſhould do, bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is like a <hi>VVaggon,</hi> or Coach, whoſe wheels are out of order, ſo that the <hi>Paſſen<g ref="char:EOLhyphen"/>ger</hi> cannot comfortably perform his Journey.</p>
+            <p>
+               <hi>Secondly:</hi> There are ſpiritual Cauſes of theſe ſad, dark, uncomfortable thoughts, and they are <hi>ſix.</hi>
+            </p>
+            <p>
+               <hi>Firſt:</hi> Thoſe remaining Principles of darkneſs, carnal <hi>Reaſon,</hi> Slaviſh fear and <hi>unbelief</hi> which are in the hearts of God's own People, who are but in <hi>part</hi> Regenerated here in this Life; Satan (who is a Spirit of darkneſs, and delights moſt in <hi>ſpiri<g ref="char:EOLhyphen"/>tual</hi> wickedneſs, <hi>Eph.</hi> 6.12.) works upon, and <hi>correſponds</hi> with theſe re<g ref="char:EOLhyphen"/>mainders of unbelief and <hi>carnal</hi> Rea<g ref="char:EOLhyphen"/>ſon in the Saints, as being moſt ſuitable to him, who improves his long <hi>experience,</hi> skill, and power to draw out and heighten theſe <hi>Princi<g ref="char:EOLhyphen"/>ples</hi> by the <hi>Engine</hi> of his Tempta<g ref="char:EOLhyphen"/>tions.</p>
+            <pb n="6" facs="tcp:35285:9"/>
+            <p>
+               <hi>Secondly:</hi> Theſe ſad thoughts are <hi>Cauſed</hi> by a deep ſenſe of <hi>ſin,</hi> and the deſert of it; this worketh <hi>terror,</hi> dejection, and deſpondency of ſpirit, when God <hi>repreſents</hi> and ſets before a Man the greatneſs of his ſins: Thus <hi>David</hi> himſelf <hi>ſadly</hi> complains, Mine <hi>Iniquities</hi> are gone over mine <hi>head,</hi> as a <hi>heavy burthen</hi> they are too hea<g ref="char:EOLhyphen"/>vy for me, <hi>Pſal.</hi> 38.4.</p>
+            <p>
+               <hi>Thirdly:</hi> They are cauſed by ſpi<g ref="char:EOLhyphen"/>ritual <hi>deſertion,</hi> or God's hiding his <hi>Face</hi> from the Soul: Thou did'ſt <hi>hide</hi> thy Face (ſaith <hi>David</hi>) and I was <hi>troubled,</hi> Pſal. 30.7. And <hi>Sion</hi> ſaid, The Lord hath <hi>forſaken</hi> me, and my Lord hath <hi>forgotten</hi> me, <hi>Iſa.</hi> 49.14. Wherefore <hi>hideſt</hi> thou thy Face (ſaith <hi>Job</hi>) and holdeſt me for thine <hi>Enemy?</hi> Wilt thou break a <hi>Leaf</hi> driven to and fro, and wilt thou purſue the <hi>dry</hi> Stubble? For thou writeſt <hi>bitter</hi> things againſt me, and makeſt me to <hi>poſſeſs</hi> the Iniquities
+<pb n="7" facs="tcp:35285:9"/>of my Youth, <hi>Job</hi> 13.24, 25.</p>
+            <p>
+               <hi>Fourthly:</hi> From the apprehenſion of Divine <hi>wrath</hi> and diſpleaſure: Though God be <hi>Reconciled</hi> to Belie<g ref="char:EOLhyphen"/>vers in Chriſt, yet they often appre<g ref="char:EOLhyphen"/>hend God's <hi>Frowns</hi> rather than his <hi>Smiles;</hi> his <hi>Chidings</hi> rather than his <hi>Kiſſes,</hi> and theſe make <hi>ſad</hi> impreſſions upon them: Thus <hi>Job</hi> complains, The <hi>Arrowes</hi> of the Almighty are within me, the <hi>Poyſon</hi> whereof drink<g ref="char:EOLhyphen"/>eth up my <hi>Spirit;</hi> the <hi>Terrors</hi> of God do ſett themſelves in <hi>array</hi> againſt me, <hi>Job</hi> 6.4. and <hi>verſe</hi> 8, 9. He wanted words to expreſs the great<g ref="char:EOLhyphen"/>neſs of his miſery and ſorrow, where<g ref="char:EOLhyphen"/>with his ſpirit was even <hi>over-whelm<g ref="char:EOLhyphen"/>ed:</hi> Such ſad apprehenſions <hi>Heman</hi> alſo had, Whilſt I ſuffer thy <hi>terrors</hi> (ſaith he) I am <hi>diſtracted;</hi> thy <hi>fierce</hi> wrath goeth over me, thy <hi>terrors</hi> have cut me off, <hi>Pſal.</hi> 88.15, 16.</p>
+            <p>
+               <hi>Fifthly:</hi> Theſe <hi>ſad</hi> thoughts and cogitations are ſometimes cauſed by
+<pb n="8" facs="tcp:35285:10"/>
+               <hi>violent</hi> temptations and ſuggeſtions to the moſt <hi>horrid</hi> evils; as to <hi>Self<g ref="char:EOLhyphen"/>murther,</hi> final Deſpair, <hi>Blaſphemy,</hi> curſed <hi>Atheiſme;</hi> the Soul is ſo <hi>ter<g ref="char:EOLhyphen"/>rified</hi> therewith, that it is ready to chuſe a ſudden <hi>violent</hi> death rather than life. Thou <hi>ſcareſt</hi> me with <hi>Dreams</hi> (ſaith <hi>Job,</hi> cap. 7. <hi>v.</hi> 14, 15.) and terrifieſt me through <hi>Viſions,</hi> ſo that my <hi>ſoul</hi> chuſeth <hi>ſtrangling</hi> and death rather than my life: Such <hi>horrid</hi> Blaſphemous ſuggeſtions and <hi>injections</hi> from Satan, ſome poor Chriſtians have ſad experience of, which fill their ſouls with <hi>terror</hi> and amazement, and make them even <hi>weary</hi> of their lives.</p>
+            <p>
+               <hi>Sixthly,</hi> Sad Thoughts are <hi>cauſed</hi> by looking at <hi>Death</hi> in the Chaſtly <hi>Glaſs</hi> of the Law of God, and not in the Comfortable Glaſs of the <hi>Goſpel;</hi> and ſo, Death appears to be the <hi>King</hi> of Terrors; and of all <hi>Ter<g ref="char:EOLhyphen"/>rible</hi> things, the moſt Terrible. Oh!
+<pb n="9" facs="tcp:35285:10"/>What will become of me (thinks the poor <hi>Trembling</hi> Soul) when I dye! How ſhall I be able to ſhoot that great and vaſt <hi>Gulph</hi> of Eterni<g ref="char:EOLhyphen"/>ty, and to endure the Bitterneſs and <hi>Terrors</hi> of Death! I that cannot bear with <hi>Patience,</hi> a little Pain of the <hi>Tooth-ake,</hi> Stone, <hi>Strangury,</hi> How ſhall I look upon that Pale-Horſe, and his Rider, whoſe Name is Death, <hi>Rev</hi> 6.8! Saints themſelves, have many times <hi>ſad</hi> Thoughts and Ap<g ref="char:EOLhyphen"/>prehenſions touching <hi>Death,</hi> when the Soul ſhall be ſtript naked of the Body, and all worldly Comforts, and brought into the <hi>Immediate</hi> Pre<g ref="char:EOLhyphen"/>ſence of God: The <hi>Conſcience</hi> here in this Life, being not perfectly and wholly purged and pacifyed, there remaines ſtill ſome Defilement, ſome <hi>Guilt,</hi> which cauſeth ſome Doubts and Fears even in true Believers.</p>
+            <pb n="10" facs="tcp:35285:11"/>
+            <p>You have heard the <hi>Cauſes,</hi> now let us come to the <hi>Remedies</hi> of theſe <hi>ſad</hi> Thoughts.</p>
+            <p>
+               <hi>First</hi> then, If <hi>Melancholy</hi> be the Cauſe, uſe the means which God has appointed for the <hi>Cure</hi> of it: <hi>Three</hi> Things I commend to you.</p>
+            <p n="1">(1.) Ye ſhould (with Depen<g ref="char:EOLhyphen"/>dence on God, the <hi>Supreme</hi> Cauſe and Being) uſe the moſt proper <hi>Phy<g ref="char:EOLhyphen"/>ſick,</hi> moderate Exerciſe, good <hi>Diet.</hi>
+            </p>
+            <p>As for <hi>Bodily</hi> Diſtempers, they are ordinarily cured by Corporal <hi>Medi<g ref="char:EOLhyphen"/>cines,</hi> and not by Spiritual Means: I ſay, with Dependance on God for <hi>Succeſs,</hi> ye muſt uſe Phyſick; for, except the Lord <hi>build</hi> the Houſe, they Labour but in <hi>vain</hi> that build it, <hi>Pſal.</hi> 127.1. And, King <hi>Aſa</hi> is blamed, becauſe in his <hi>Diſeaſe</hi> he ſought not to the Lord, but to the Phy<g ref="char:EOLhyphen"/>ſitians, 2 <hi>Chron.</hi> 16.12.</p>
+            <pb n="11" facs="tcp:35285:11"/>
+            <p n="2">(2.) <hi>Converſe</hi> frequently with wiſe, <hi>compaſſionate,</hi> experienced Chriſtians, ſuch as have been exerciſed with <hi>Me<g ref="char:EOLhyphen"/>lancholy</hi> Diſtempers themſelves, and are not ignorant of Sathan's <hi>Methods;</hi> otherwiſe ye ſpeak to them, and they to you, in an <hi>unknown</hi> Tongue.</p>
+            <p n="3">(3.) <hi>Conſider,</hi> That though the Cure of <hi>Melancholy,</hi> be a torture to the moſt Learned <hi>Phyſitians</hi> in the World; yet God, the <hi>Soveraign</hi> Phy<g ref="char:EOLhyphen"/>ſitian, can eaſily rebuke it: If He ſpeak the <hi>word,</hi> Be thou <hi>healed,</hi> then thou ſhalt be ſound and whole: The Lord knows our <hi>frame,</hi> how frail and weak we are, what advantage <hi>Satan</hi> takes againſt us from theſe <hi>melan<g ref="char:EOLhyphen"/>choly</hi> Diſtempers; and how they diſ<g ref="char:EOLhyphen"/>able and <hi>diſ-ſpirit</hi> us for Religious Services, and render our Lives bur<g ref="char:EOLhyphen"/>thenſome and uncomfortable to us; and therefore, he will <hi>pitty</hi> us, as an indulgent Father pittieth his Chil<g ref="char:EOLhyphen"/>dren: And, though the <hi>Diſtemper</hi>
+               <pb n="12" facs="tcp:35285:12"/>ſhould not wholly be removed; yet we may well hope, that he will ſo abate it for his own Names ſake) that it ſhall not <hi>over-whelm</hi> us, no, nor hinder our Spiritual Good; but be a means to humble us, and keep us low in our own Eyes.</p>
+            <p>
+               <hi>Secondly,</hi> If your ſad <hi>diſconſolate</hi> Thoughts be cauſed by Spiritual Di<g ref="char:EOLhyphen"/>ſtempers; as <hi>Unbelief,</hi> carnal Rea<g ref="char:EOLhyphen"/>ſon, <hi>Doubts</hi> and Fears, ſomething is to be done in the <hi>general;</hi> and then more particularly.</p>
+            <p n="1">(1.) In <hi>general:</hi> Endeavour in the Strength of God, to comfort theſe ſad Thoughts, by applying <hi>Spi<g ref="char:EOLhyphen"/>ritual</hi> Conſolations ſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>table to your Diſtemper; ſo you find in the Text, <hi>In the</hi> multitude <hi>of my Thoughts</hi> (<hi>i. e. ſad</hi> Thoughts) <hi>within me, Thy</hi> Com<g ref="char:EOLhyphen"/>forts <hi>delight my soul, Pſal.</hi> 94.9. Let not the <hi>Conſolations</hi> of God <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em <hi>ſmall</hi> to thee, neither do thou <hi>indulge</hi> any <hi>ſecret</hi> Sin, <hi>Job</hi> 15.11.</p>
+            <pb n="13" facs="tcp:35285:12"/>
+            <p n="2">(2.) You ſhould often chide your ſelves <hi>keenly</hi> and rationally for theſe ſad <hi>unbelieving</hi> thoughts: Why art thou <hi>caſt</hi> down (O my Soul)! and why art thou <hi>diſquieted</hi> within me! <hi>Hope</hi> thou in God, for I ſhall yet <hi>praiſe</hi> him, who is the <hi>health</hi> of my Countenance, and my God, <hi>Pſal.</hi> 42.5, 11. This ſadneſs and de<g ref="char:EOLhyphen"/>jectedneſs in Saints is very <hi>unrea<g ref="char:EOLhyphen"/>ſonable,</hi> and of ill conſequence, for it <hi>drinks</hi> up their ſpirits, diſables and diſpirits them for the Service of God and Men: But I will ſpeak more particularly to this <hi>matter.</hi>
+            </p>
+            <p>
+               <hi>Firſt:</hi> Does Satan work upon, and by thoſe <hi>Innate</hi> Principles of Darkneſs, Unbelief, carnal Reaſon, which are in thy <hi>heart</hi> and nature; and likewiſe on thy <hi>Bodily</hi> diſtem<g ref="char:EOLhyphen"/>pers, eſpecially <hi>Melancholy:</hi> O then take to thee the whole <hi>Armour</hi> of God, eſpecially the <hi>Shield</hi> of Faith, that ye may be able to <hi>ſtand</hi> a<g ref="char:EOLhyphen"/>gainſt
+<pb n="14" facs="tcp:35285:13"/>the <hi>wiles</hi> of the Devil, and to quench all his <hi>fiery</hi> Darts, <hi>Epheſ.</hi> 6.11, 16. Pray earneſtly that God would <hi>rebuke</hi> Satan, and remember that Chriſt prays for you: And the <hi>Lord</hi> ſaid unto <hi>Satan,</hi> The <hi>Lord Rebuke</hi> thee, O Satan: Is not this a <hi>Brand</hi> pluckt out of the fire? <hi>Zach.</hi> 3.2. <hi>Greater</hi> is Chriſt that is in you and for you, than <hi>Satan</hi> that is againſt you.</p>
+            <p>
+               <hi>Secondly:</hi> Do thy ſins make thee ſad and <hi>diſconſolate?</hi> Do they preſs thee down with a great <hi>weight?</hi> and doeſt thou groan under the bo<g ref="char:EOLhyphen"/>dy of Sin as an <hi>intollerable</hi> burthen, <hi>Rom.</hi> 7.24. O then remember that ſweet Invitation of thy Saviour, Come <hi>unto me all ye that</hi> labour, <hi>and are heavy</hi> laden, <hi>and I will give you reſt,</hi> Matth. 11.28. Apply to thy ſoul the <hi>Soveraign</hi> Blood of Chriſt, which <hi>cleanſeth</hi> from all Sin,
+<pb n="15" facs="tcp:35285:13"/>1 <hi>Joh.</hi> 1.7. which <hi>pacifieth</hi> the Con<g ref="char:EOLhyphen"/>ſcience, and purgeth it from <hi>dead</hi> works, <hi>Heb.</hi> 9.14. which ſpeaks better things than the <hi>Blood</hi> of <hi>A<g ref="char:EOLhyphen"/>bel,</hi> Heb. 12.24. Caſt the <hi>burthen</hi> of thy ſins, thy <hi>guilt,</hi> thy puniſh<g ref="char:EOLhyphen"/>ment on Chriſt, on whom, God made to <hi>meet</hi> the <hi>Iniquities</hi> of us all, and by whoſe <hi>Stripes</hi> we are healed, <hi>Iſa.</hi> 53.5, 6. His ſoul was <hi>ſad</hi> and ſorrowful to the death, that thy <hi>ſoul</hi> might rejoyce; the <hi>Spirit</hi> of the Lord God was upon him, and he was ſent by God to bind up the <hi>broaken-hearted,</hi> to give them that <hi>mourn</hi> in <hi>Sion, Beauty</hi> for Aſhes, the <hi>oyle</hi> of Joy for <hi>Mourning,</hi> and the garment of <hi>Praiſe</hi> for the ſpirit of heavineſs, <hi>Iſa.</hi> 61.1, 2, 3.</p>
+            <p>
+               <hi>Thirdly:</hi> Doth the Lord hide his <hi>Face</hi> from thee, ſo that thou behold<g ref="char:EOLhyphen"/>eſt not the <hi>light</hi> of His Countenance as formerly? Think with thyſelf, notwithſtanding that God's <hi>Love</hi> is
+<pb n="16" facs="tcp:35285:14"/>
+               <hi>Unchangable</hi> and Everlaſting, He changeth not as Man doth, <hi>Mal.</hi> 3.6. Though he ſeem to <hi>hide</hi> his Face, and forſake thee for a ſmall <hi>moment,</hi> yet with <hi>Everlaſting</hi> kindneſs will I embrace thee, ſaith the Lord, thy Redeemer, <hi>Iſa.</hi> 54.7, 8. He retain<g ref="char:EOLhyphen"/>eth not his <hi>Anger</hi> for ever; He will <hi>turn</hi> again, He will have Compaſſion upon us, <hi>Micah</hi> 7.18, 19. If thou prayeſt to God in <hi>Faith,</hi> He will be <hi>favourable</hi> to thee, and thou ſhalt ſee his <hi>Face</hi> with joy, <hi>Job</hi> 33.26. Who is among you that <hi>feareth</hi> the Lord, that <hi>walketh</hi> in darkneſs, and hath no <hi>light,</hi> let him <hi>truſt</hi> in the <hi>Name</hi> of the Lord, and <hi>ſtay</hi> upon his God, <hi>Iſa.</hi> 50.10. Though the ten<g ref="char:EOLhyphen"/>der <hi>Mother</hi> go ſometimes where the Child doth not ſee her, yet ſtill her <hi>Bowels</hi> are towards the Child: God, when he ſeems to with-draw from his people, yet ſtill his Love and Compaſſion are towards them. Chriſt
+<pb n="17" facs="tcp:35285:14"/>upon the <hi>Croſs,</hi> cryed out, My God, my God, why haſt thou <hi>forſaken</hi> me? that we might not be <hi>forſaken</hi> of God.</p>
+            <p>
+               <hi>Fourthly:</hi> Doeſt thou yet appre<g ref="char:EOLhyphen"/>hend ſome tokens of God's wrath and diſpleaſure, which fills thy heart with fear and <hi>amazement?</hi> Remem<g ref="char:EOLhyphen"/>ber that Chriſt our <hi>Sponſor</hi> and Sure<g ref="char:EOLhyphen"/>ty, hath <hi>born</hi> the whole <hi>VVrath</hi> of God, the whole Curſe of the Law for all thoſe that come to him, and be<g ref="char:EOLhyphen"/>lieve on him: He hath <hi>Redeemed</hi> us from the <hi>Curſe</hi> of the Law, being made a <hi>Curſe</hi> for us, <hi>Gal.</hi> 3.13. He it was that <hi>trode</hi> the Wine-preſs of the <hi>fierceneſs</hi> of the Wrath of God, and there was none to <hi>help</hi> him, <hi>Iſa.</hi> 63.5, 6. <hi>Rev.</hi> 19.15. By this Jeſus we are <hi>delivered</hi> from the <hi>wrath</hi> to come. 1 <hi>Theſ.</hi> 1.10. The Lord is merciful and gracious, He will not always <hi>Chide,</hi> neither will he keep his <hi>Anger</hi> for ever: As a Father
+<pb n="18" facs="tcp:35285:15"/>
+               <hi>pittyeth</hi> his Children, ſo the Lord pittyeth them that fear Him; for he knoweth our <hi>frame,</hi> He remem<g ref="char:EOLhyphen"/>breth that we are but duſt, <hi>Pſal.</hi> 103.8, 9, 13, 14. He will not <hi>con<g ref="char:EOLhyphen"/>tend</hi> for ever, neither will He be always <hi>Wrath,</hi> leſt the Spirit ſhould <hi>fail</hi> before him: He will reſtore <hi>Comforts</hi> to him that <hi>Mourns,</hi> and will <hi>Create</hi> the fruit of the lips, <hi>Peace,</hi> Peace, <hi>Iſaiah</hi> 57.16, 19.</p>
+            <p>
+               <hi>Fifthly:</hi> Doth Satanical <hi>Injecti<g ref="char:EOLhyphen"/>ons,</hi> and violent Temptations to the moſt <hi>horrid</hi> Evils and Blaſphe<g ref="char:EOLhyphen"/>mies <hi>haunt</hi> and hurry thee day and night. Conſider (poor ſoul) that they are thy <hi>Tryals,</hi> not thy Sins; (if thou doſt not <hi>yield</hi> thereunto, but abhor and reſiſt them) thou art like the modeſt <hi>Virgin</hi> that's forcibly Raviſhed by a wicked Man without her conſent: 'Tis his <hi>Sin,</hi> not hers, though a great Affliction to her. Oh flye to the <hi>Throne</hi> of
+<pb n="19" facs="tcp:35285:15"/>Grace and Mercy for help and ſuc<g ref="char:EOLhyphen"/>cor in this time of <hi>Need; reſt</hi> thy ſelf on God's free promiſe and word of <hi>Grace:</hi> He is <hi>Faithful,</hi> and will not ſuffer you to be <hi>Tempted</hi> above that you are able, but will with the <hi>Temptation</hi> alſo, make a way to <hi>eſcape,</hi> that ye may be able to <hi>bear</hi> it, 1 <hi>Cor.</hi> 10.13. The Lord is <hi>Faith<g ref="char:EOLhyphen"/>ful,</hi> who ſhall <hi>ſtabliſh</hi> you and keep you from Evil, 2 <hi>Theſ.</hi> 3.3. The Lord ſhall <hi>preſerve</hi> thee from all <hi>Evil,</hi> He ſhall preſerve thy <hi>ſoul,</hi> Pſal. 121.7. Thou ſhalt be <hi>kept</hi> by the <hi>power</hi> of God, through Faith to Salvation, 1 <hi>Pet.</hi> 1.5. Let thy ſoul take Sanctuary in the free Pro<g ref="char:EOLhyphen"/>miſe of Grace.</p>
+            <p>
+               <hi>Sixthly:</hi> Doth the fear of <hi>Death</hi> and Eternity cauſe ſad thoughts of heart in thee? O learn to look at <hi>Death</hi> in the comfortable <hi>Glaſs</hi> of the Goſpel of Chriſt, and not in the dreadful glaſs of the <hi>Law:</hi> Death
+<pb n="20" facs="tcp:35285:16"/>to a Believer is ſwallowed up in <hi>Victory;</hi> the Sting of this <hi>Serpent</hi> is taken away by Chriſt: O <hi>Death</hi> (ſaith he) I will be thy <hi>Death;</hi> O <hi>Grave,</hi> I will be thy <hi>Victory.</hi> Chriſt hath <hi>conquer'd</hi> Death, perfum'd the <hi>Grave,</hi> and opened a way for poor Sinners to Everlaſting <hi>Glory:</hi> The <hi>Sting</hi> of Death is Sin, and the <hi>Strength</hi> of Sin is the <hi>Law:</hi> But, Thanks be to God, which giveth us the <hi>Victory</hi> through our Lord Jeſus Chriſt, 1 <hi>Cor.</hi> 15.56, 57. Foraſ<g ref="char:EOLhyphen"/>much, as the Children are <hi>Partakers</hi> of Fleſh and Blood, Chriſt Him<g ref="char:EOLhyphen"/>ſelf took <hi>part</hi> of the ſame, that through <hi>Death,</hi> he might deſtroy him that had the Power of <hi>Death;</hi> that is, the Devil; and deliver them, who through <hi>fear</hi> of Death, were all their Life-time ſubject to <hi>Bondage, Heb.</hi> 2.14, 15.</p>
+            <pb n="21" facs="tcp:35285:16"/>
+            <p>Here five or ſix ſpecial Helps and <hi>Directions,</hi> when ye are troubled and perplexed with <hi>ſad</hi> Thoughts and much Darkneſs upon your <hi>Spi<g ref="char:EOLhyphen"/>rits.</hi>
+            </p>
+            <div n="1" type="direction">
+               <head>DIRECTION, I.</head>
+               <p>Call to Remembrance what hath formerly paſs'd betwixt God and your <hi>Soul;</hi> what Love-tokens ye have received from him, (though you be now under a <hi>Cloud</hi>): As, when the <hi>Title</hi> of your Land is queſtioned, you ſearch old Records and Evi<g ref="char:EOLhyphen"/>dences; ſo ye ſhould do in this Caſe: Thus <hi>David,</hi> when his Soul had before refuſed to be Comforted, and his Spirit was in a manner <hi>over<g ref="char:EOLhyphen"/>whelmed;</hi> yet now he would conſi<g ref="char:EOLhyphen"/>der the Dayes of Old, the Years of Antient Times, and call to Remem<g ref="char:EOLhyphen"/>brance his <hi>Songs</hi> in the Night, <hi>&amp;c. Pſal.</hi> 77.2, 3, 5, 6. And <hi>Job,</hi> when the Wrath of God ſeemed to be
+<pb n="22" facs="tcp:35285:17"/>
+                  <hi>kindled</hi> againſt him, and God coun<g ref="char:EOLhyphen"/>ted him as one of his <hi>Enemies,</hi> and his <hi>Reines</hi> were conſumed within him; yet ſtill ſaith he (<hi>Job</hi> 19.11, 27, 28.) The <hi>Root</hi> of the <hi>Matter</hi> is found in me: He acknowledged, that he had the <hi>Root</hi> of true <hi>Faith</hi> in him; and knew, that his <hi>Redeemer</hi> liveth: Though the Exerciſe of his Faith was at preſent ſuſpended, as to the comfortable Effects of it; yet, he had an <hi>evidence</hi> of his good Eſtate, from his former Experience: As in the <hi>Winter</hi>-Seaſon, though the Plant ſeems to wither, yet the <hi>root</hi> of it ſtill remaines in the Earth; and when the <hi>Spring</hi> comes, and the <hi>Sun</hi> ſhines upon it with a powerful Influence, it will appear.</p>
+            </div>
+            <div n="2" type="direction">
+               <head>DIRECTION, II.</head>
+               <p>Plead and expoſtulate <hi>Humbly</hi> with thy God, when he ſeems to hide his <hi>Face</hi> from thee; make uſe
+<pb n="23" facs="tcp:35285:17"/>of Arguments in thy Prayers taken from the Infinitneſs of God's <hi>Mercy,</hi> and the Greatneſs of thy <hi>Miſery:</hi> Thy Saviour, in His great <hi>Soul</hi>-Agony and Diſtreſs, prayed often and earneſtly, <hi>Luk.</hi> 22.44. Is any among you <hi>Afflicted</hi> (ſaith the A<g ref="char:EOLhyphen"/>poſtle, <hi>Jam.</hi> 5.13.) let him <hi>Pray.</hi>
+               </p>
+               <p>This <hi>Direction</hi> may be drawn out and <hi>improved</hi> in five Particulars.</p>
+               <p n="1">(1.) <hi>Suppoſe</hi> thy Caſe be as ſad as <hi>Jobs</hi> was (<hi>Cap.</hi> 10. <hi>v.</hi> 15, 16, 17.) thou art full of <hi>Diſtraction</hi> and Con<g ref="char:EOLhyphen"/>fuſion; the Lord <hi>hunts</hi> thee as a fierce <hi>Lyon,</hi> and increaſeth his In<g ref="char:EOLhyphen"/>dignation upon thee; contending ſtill with thee, as if he were thy greateſt <hi>Enemy;</hi> Yet now, fall down and <hi>Proſtrate</hi> thy ſelf humbly at his <hi>Feet,</hi> as a poor, ſilly, helpleſs Lamb; and, if thou muſt <hi>needs</hi> dye and periſh, yet dye at His <hi>Feet,</hi> mourning and bleeding out thy-Heart
+<pb n="24" facs="tcp:35285:18"/>in <hi>Sighs</hi> and Tears. Take heed of a <hi>fretting</hi> murmuring Spi<g ref="char:EOLhyphen"/>rit, which is exceeding offenſive to God: Be <hi>ſtill</hi> and quiet; not a word; put thy Mouth in the <hi>Duſt:</hi> It is good that a Man ſhould <hi>hope,</hi> and quietly <hi>wait</hi> on God, <hi>Lam.</hi> 3.26, 29. I will bear the <hi>Indignation</hi> of the Lord, becauſe I have ſinned againſt Him, (ſaith the <hi>Church, Mic.</hi> 7.9.) Kiſs the <hi>Rod</hi> as a ſubmiſſive Child, and acknowledge that it is of the Lord's <hi>Mercy,</hi> that thou art not <hi>conſumed.</hi>
+               </p>
+               <p n="2">(2.) When God ſeems to <hi>pur<g ref="char:EOLhyphen"/>ſue</hi> thee hard, and to bend his <hi>Bow,</hi> and ſhoot his Arrows againſt thee; <hi>deſire</hi> him humbly to Remember the Thoughts of <hi>Love</hi> and Peace, which he had to poor Sinners from <hi>Eternity:</hi> Theſe Thoughts he delights in; they are more than can be <hi>numbered, Pſal.</hi> 40.5. and what, Are they <hi>reſtrained</hi> in Him! Hath
+<pb n="25" facs="tcp:35285:18"/>God forgotten to be <hi>Gratious!</hi> Hath He for ever ſhut up his <hi>tender</hi> Mer<g ref="char:EOLhyphen"/>cies! Surely, He hath not, <hi>Pſal.</hi> 77.9. Put him in mind of that in<g ref="char:EOLhyphen"/>finite All-ſufficient <hi>Righteouſneſs</hi> and Merit, which is in Chriſt, where<g ref="char:EOLhyphen"/>of Himſelf hath no <hi>need;</hi> no, nor the Bleſſed <hi>Angels</hi> that never ſin<g ref="char:EOLhyphen"/>ned; But, it is reſerved for poor ſinful Men and Women, ſuch as thou art: If thou ſayeſt, Thou art <hi>unworthy;</hi> yea, but He loves freely, <hi>Hoſ.</hi> 14.4. If the <hi>greatneſs</hi> of thy Sins be objected againſt thee, tell him, That there is <hi>plenteous</hi> Re<g ref="char:EOLhyphen"/>demption for thee in (and with) Chriſt, <hi>Pſal.</hi> 130.7. Art thou <hi>un<g ref="char:EOLhyphen"/>godly</hi> and wicked in thy ſelf? the Scripture ſaith, That he <hi>Juſtifies</hi> the ungodly, <hi>Rom.</hi> 4.5. and that Chriſt received <hi>Gifts</hi> for Sinners, yea, for the <hi>Rebellious;</hi> that the Lord God might <hi>dwell</hi> with them, <hi>Pſal.</hi> 68.18. Art thou no better
+<pb n="26" facs="tcp:35285:19"/>than a <hi>Dogg?</hi> Yea, but the Doggs they eat the <hi>Crumbs</hi> that fall from their Maſter's <hi>Table;</hi> Chriſt hath reſerved ſome <hi>Crumbs</hi> of Mercy and Comfort for thee, <hi>Math.</hi> 15.27.</p>
+               <p n="3">(3.) If he ſtill <hi>purſue</hi> thee in his <hi>Anger,</hi> and ſet thee as a <hi>Mark</hi> to ſhoot at, ſo that thou art a <hi>Bur<g ref="char:EOLhyphen"/>then</hi> to thy ſelf, <hi>Job</hi> 7.20. <hi>Ask</hi> him humbly with <hi>Tears</hi> in thy Eyes, What he aimes at? Is it to have the Victory over thee, that he might be <hi>juſtifyed</hi> in his Sayings, and might <hi>over-come</hi> when he is Judged, <hi>Rom.</hi> 3.4? Tell him <hi>freely,</hi> Thou wilt yeild to him as a poor <hi>Captive,</hi> and ſtand out with him in nothing; and, that he ſhall need no other <hi>Judge</hi> or Jury to condemn thee, but thy ſelf: Thou art very willing to <hi>juſti<g ref="char:EOLhyphen"/>fie</hi> him in all things, and to <hi>ſen<g ref="char:EOLhyphen"/>tence</hi> and condemn thy ſelf; only beſeech him to <hi>conſider,</hi> what Victo<g ref="char:EOLhyphen"/>ry,
+<pb n="27" facs="tcp:35285:19"/>what Honour it will be to ſo Great and Infinite a God as He is, to purſue a little <hi>dry Stubble,</hi> to break a poor <hi>Leaf</hi> that is bruis'd al<g ref="char:EOLhyphen"/>ready, and <hi>crumbles</hi> under his Fin<g ref="char:EOLhyphen"/>gers if he do but touch it, <hi>Job</hi> 13.25. <hi>Say</hi> to Him, Thou art <hi>Impar Congreſſus;</hi> Thou art far from be<g ref="char:EOLhyphen"/>ing an <hi>equal</hi> Match to Him; and, He is ſo <hi>Noble,</hi> ſo Generous, as not to ſet Himſelf againſt a <hi>Worm,</hi> againſt a poor weak <hi>Leaf,</hi> that yeilds and falls under His hand; having ſaid, That He will not <hi>con<g ref="char:EOLhyphen"/>tend</hi> for ever, leſt the Spirit ſhould utterly <hi>fail</hi> before him, <hi>Iſa.</hi> 57.19.</p>
+               <p n="4">(4.) If it ſhould be hinted to thee, as if God would <hi>glorify</hi> Him<g ref="char:EOLhyphen"/>ſelf in thy <hi>Eternal</hi> Deſtruction and Condemnation; tell him, 'Tis true, he may; But yet, before he thruſt his <hi>Sword</hi> in thee, deſire Him (with Reverence and Submiſſion) to <hi>con<g ref="char:EOLhyphen"/>ſider,</hi>
+                  <pb n="28" facs="tcp:35285:20"/>That he firſt ſheathed it in the <hi>Blood</hi> of His Son; and what profit will there be in thy <hi>Blood</hi> and Deſtruction: If Satisfaction to Divine Juſtice be his end and de<g ref="char:EOLhyphen"/>ſigne, He may have that in and from the <hi>Propitiatory</hi>-Sacrifice, and Death of Chriſt; and ſo, be no loſer: And, as for thy Salvation, it will be more for his Glory, than thy Condemnation. If he require more <hi>Ojbedience</hi> of thee, Alas, this is not the <hi>way</hi> to perform it; when thy poor Soul is <hi>distracted</hi> with his Terrors, and thou art as a Man that hath no Strength, numbred a<g ref="char:EOLhyphen"/>mongſt the <hi>Dead,</hi> (as <hi>Heman</hi> ſpeaks, <hi>Pſal.</hi> 88.4, 5, 15.) The more Spi<g ref="char:EOLhyphen"/>ritual Peace and Joy and <hi>Soul</hi> hath, the more Service and Obedience it will be able to <hi>perform</hi> to God, who loves a chearful Giver: The <hi>Joy</hi> of the Lord, is the <hi>Strength</hi> of the Soul, <hi>Nehem.</hi> 8.10. If it be
+<pb n="29" facs="tcp:35285:20"/>ſuggeſted to <hi>thee;</hi> That if thou hadſt more <hi>Aſſurance,</hi> Joy, and Inlarge<g ref="char:EOLhyphen"/>ment, thou wouldſt <hi>abuſe</hi> it, and grow wanton; <hi>Tell</hi> God humbly, That he may alſo <hi>prevent</hi> that, if He pleaſe, by the Power of His <hi>Grace;</hi> and by writing the <hi>Law</hi> of Love in thy Heart by his Spirit, which will <hi>conſtraine</hi> thee to love Him, and to live to Him, 2 <hi>Cor.</hi> 5.14. And, Love is as <hi>ſtrong</hi> as <hi>Death;</hi> Many Waters cannot <hi>quench</hi> it, nei<g ref="char:EOLhyphen"/>ther can the <hi>Floods</hi> drown it, <hi>Cant.</hi> 8.6, 7. And, though thou haſt a <hi>froward</hi> and ſtubborn Heart, which thou canſt not chuſe but <hi>ſadly</hi> com<g ref="char:EOLhyphen"/>plain of; yet, ſo had he whom the Pro<g ref="char:EOLhyphen"/>phet ſpeaks of, <hi>Iſa.</hi> 57.17, 18. God <hi>hid</hi> his Face from him; was <hi>wrath,</hi> and ſmote him; and he went on <hi>frowardly</hi> in the way of his <hi>Heart:</hi> Yet, for all this (ſaith the Lord) I have ſeen his <hi>wayes,</hi> and will <hi>heal</hi> him, and reſtore <hi>Comforts</hi> to him.</p>
+               <pb n="30" facs="tcp:35285:21"/>
+               <p n="5">(5.) If thy <hi>Temptation</hi> be ſo great, and thy Condition ſo ſad, as if there were no other <hi>Remedy,</hi> but God and thou muſt part; yet labour notwithſtanding to have <hi>good</hi> thoughts of God, and to bleſs Him for thoſe <hi>glorious</hi> Attributes and excellencies of <hi>Mercy,</hi> Truth, <hi>Wiſ<g ref="char:EOLhyphen"/>dom,</hi> Holineſs, that are in him: Bleſs Him for his <hi>mercy</hi> and good<g ref="char:EOLhyphen"/>neſs to others, and for enabling them to ſerve him with chearfulneſs and ſucceſs. Bleſs him for the <hi>good</hi> things which thou haſt <hi>formerly</hi> re<g ref="char:EOLhyphen"/>ceived from Him; and if thou haſt done, or ſuffered any thing for God in thy time, wiſh with all thy ſoul it had been a <hi>thouſand</hi> times more: And confeſs thy ſelf unworthy, leſſer than the <hi>leaſt</hi> of thoſe Mercies he hath beſtowed on thee; and that thou art <hi>infinitly</hi> ingaged to Him for what is paſt, if He ſhould caſt thee off for time to come, and ne<g ref="char:EOLhyphen"/>ver
+<pb n="31" facs="tcp:35285:21"/>
+                  <hi>ſmile</hi> upon thee again: <hi>Deſire</hi> Him only that He would pre<g ref="char:EOLhyphen"/>ſerve and maintain in thee good and <hi>honourable</hi> thoughts of His <hi>Ma<g ref="char:EOLhyphen"/>jeſty,</hi> that thou maiſt not in the leaſt derogate from His <hi>Honour,</hi> or Blaſpheme his Holy Name, how<g ref="char:EOLhyphen"/>ever he is pleaſed to <hi>deal</hi> with thee as to Spiritual Peace and Comfort: And who knows, but whilſt thou art thus <hi>bemoaning</hi> thy ſelf (as <hi>E<g ref="char:EOLhyphen"/>phraim</hi> did) though the Lord at preſent ſeem to look <hi>Stern,</hi> and to ſpeak <hi>Angerly</hi> to thee, yet he will quickly come and ſpeak <hi>Peace</hi> to thy ſoul, and liſt up the light of his <hi>Countenance</hi> on thee. I have ſurely heard <hi>Ephraim</hi> bemoaning himſelf (ſaith the Lord). Is <hi>E<g ref="char:EOLhyphen"/>phraim</hi> my dear <hi>Son,</hi> Is he a <hi>plea<g ref="char:EOLhyphen"/>ſant</hi> Child? For ſince I <hi>ſpake</hi> againſt him, I do earneſtly <hi>remember</hi> him ſtill; therefore my <hi>Bowels</hi> are trou<g ref="char:EOLhyphen"/>bled for him; I will ſurely have
+<pb n="32" facs="tcp:35285:22"/>
+                  <hi>mercy</hi> on him, <hi>Jer.</hi> 31.18, 19, 20.</p>
+            </div>
+            <div n="3" type="direction">
+               <head>DIRECTION III.</head>
+               <p>Call to mind and improve the <hi>Soul</hi> ſorrows and Agonies of thy Saviour and <hi>Surety,</hi> who bore the <hi>Wrath</hi> of God in his ſoul for thee, that thy poor <hi>Penſive</hi> ſoul might be comforted and delivered from the <hi>Terrors</hi> of God: His Soul was <hi>heavy</hi> and ſorrowful to the Death; yea, he was ſurrounded and <hi>envi<g ref="char:EOLhyphen"/>ron'd</hi> with ſorrow and <hi>amazement</hi> of Spirit, and cryed out bitterly on the Croſs, <hi>My God,</hi> my God, <hi>why haſt thou</hi> forſaken <hi>me?</hi> Matth. 27.46. And in the <hi>days</hi> of his Fleſh, He <hi>offered</hi> up Prayers and <hi>Suppli<g ref="char:EOLhyphen"/>cations,</hi> with ſtrong crying and <hi>tears</hi> unto him that was <hi>able</hi> to ſave him from <hi>Death,</hi> and was <hi>heard</hi> in that he feared, <hi>Heb.</hi> 5.7. Now tell God humbly and <hi>believingly,</hi> that he
+<pb n="33" facs="tcp:35285:22"/>hath laid thy Sin, <hi>Guilt, Curſe,</hi> up<g ref="char:EOLhyphen"/>on his Son, and in the fierceneſs of his <hi>Wrath</hi> fell upon him, ſtanding in thy <hi>ſtead</hi> and room, that he might ſet thee <hi>free</hi> (who is not in the leaſt able to <hi>wreſtle</hi> with the Ter<g ref="char:EOLhyphen"/>rors of God); ſay to him that his own bleſſed Son hath drank off the <hi>Cup</hi> of Divine <hi>Wrath</hi> to the bot<g ref="char:EOLhyphen"/>tom, even the very <hi>dreggs</hi> of it; and therefore why ſhould thy poor <hi>ſoul</hi> (which is redeemed by the pre<g ref="char:EOLhyphen"/>cious Blood of thy Saviour) taſt any part of this bitter <hi>Cup?</hi> Did God <hi>withdraw</hi> the comforts of his Spirit from the <hi>humane</hi> Nature of Chriſt, and fill it with <hi>ſadneſs</hi> and ſorrow for thy ſake, that thou mighteſt ob<g ref="char:EOLhyphen"/>tain Spiritual <hi>peace</hi> and comfort? O then why ſhould'ſt not thou ear<g ref="char:EOLhyphen"/>neſtly pray for, and expect the fruits of Chriſt's Agony and Death in having thy ſoul revived and filled with ſpiritual peace and joy?</p>
+            </div>
+            <div n="4" type="direction">
+               <pb n="34" facs="tcp:35285:23"/>
+               <head>DIRECTION IV.</head>
+               <p>Renew thy Faith and <hi>Repentance</hi> in good earneſt, as if thou had'ſt never done it before. Suppoſe it be ſuggeſted to thee by <hi>Satan,</hi> that thou did'ſt never as yet <hi>truly</hi> believe and repent of thy ſins? Thou maiſt Anſwer thus, <hi>Well,</hi> I will not queſti<g ref="char:EOLhyphen"/>on that <hi>now,</hi> but reſolve by the <hi>Grace</hi> of God forth-with to <hi>Repent</hi> heartily of my <hi>Sins,</hi> and believe on the Lord Jeſus. Some Chriſtians are apt to look back altogether on what they have done, and if that do not afford them comfort, then they are ready to give up all for <hi>losk,</hi> and to <hi>ſink</hi> under diſcourage<g ref="char:EOLhyphen"/>ment. But though a Chriſtian may ſometimes look back, and reflect on his former <hi>evidences</hi> and experien<g ref="char:EOLhyphen"/>ces; yet certainly, to caſt thy ſelf at preſent by a <hi>direct</hi> act of Faith, upon the free <hi>Grace</hi> of God in the
+<pb n="35" facs="tcp:35285:23"/>
+                  <hi>Goſpel</hi>-promiſe, is the ſhorteſt cut, and the readieſt way to <hi>ſilence</hi> thy doubts, and Satans ſuggeſtions; as ſometimes it falls out, that a Man may with as little charge and trou<g ref="char:EOLhyphen"/>ble, obtain a <hi>new</hi> Leaſe, as prove the <hi>old</hi> one good and Authentical. Be <hi>peremptory</hi> and reſolute there<g ref="char:EOLhyphen"/>fore in believing and caſting thy ſelf on a <hi>Crucified</hi> Jeſus, and ſay with <hi>Eſther,</hi> I will go to the <hi>King,</hi> and if I <hi>Periſh,</hi> I Periſh, <hi>Eſther</hi> 4.16. and with <hi>Job,</hi> Though he <hi>Kill</hi> me, yet will I <hi>truſt</hi> in him, <hi>Job</hi> 13.15. Venture thy <hi>Soul</hi> upon him, as one that's ready to <hi>ſink</hi> when the <hi>Bladders</hi> are taken from him, will yet venture to <hi>ſwim</hi> without Bladders. And as the four <hi>Lepers</hi> ſaid one to another, Why <hi>ſit</hi> we here until we <hi>dye?</hi> If we enter into the <hi>City,</hi> the <hi>famine</hi> is there, and we ſhall <hi>dye;</hi> and if we <hi>ſit</hi> ſtill here, we ſhall <hi>dye</hi> alſo: Therefore, let
+<pb n="36" facs="tcp:35285:24"/>us fall into the <hi>Hoſt</hi> of the <hi>Syrians;</hi> if they ſave us <hi>alive,</hi> we ſhall live; and if they <hi>Kill</hi> us, we ſhall but dye, 2 <hi>King.</hi> 7.3, 4. So <hi>reſolve</hi> to throw your ſelf upon Chriſt, and if ye muſt dye, then dye at his <hi>feet:</hi> But this is ſo far from being the <hi>way</hi> to Periſh, that it is the <hi>direct</hi> way to true Peace, Comfort, and Happineſs.</p>
+            </div>
+            <div n="5" type="direction">
+               <head>DIRECTION V.</head>
+               <p>Truſt in the <hi>Name</hi> of God <hi>Je<g ref="char:EOLhyphen"/>hovah</hi> for Comfort and Salvation. He that walks in <hi>darkneſs,</hi> and ſees no light, let him truſt in the <hi>Name</hi> of the Lord, and ſtay himſelf upon his God, <hi>Iſa.</hi> 50.10.<note n="*" place="margin">
+                     <hi>Vid.</hi> Mr. <hi>Good<g ref="char:EOLhyphen"/>wins</hi> Child of <hi>light</hi> walking in darkneſs.</note> the conſi<g ref="char:EOLhyphen"/>deration of the Sweet, Gratious, Merciful <hi>Nature</hi> and Name of God, will ſupport and keep the ſoul from ſinking: The <hi>Name</hi> of the Lord is
+<pb n="37" facs="tcp:35285:24"/>a ſtrong <hi>Tower,</hi> the Righteous run<g ref="char:EOLhyphen"/>eth to it, and is ſafe, <hi>Prov.</hi> 18.10. There is enough in the <hi>Name</hi> of God to Anſwer all our <hi>Objections,</hi> and reſolve all our doubts; as this name was <hi>proclaimed</hi> to <hi>Moſes,</hi> The Lord, the God, <hi>merciful</hi> and grati<g ref="char:EOLhyphen"/>ous, <hi>long-ſuffering,</hi> and abundant in <hi>Goodneſs</hi> and Truth, keeping <hi>mercy</hi> for thouſands, forgiving <hi>Iniquity, Tranſgreſſion,</hi> and <hi>Sin,</hi> Exod. 34.6, 7. This Name of God is to be <hi>found,</hi> and is revealed in and by Chriſt to poor Sinners. Hearken to him, and <hi>obey</hi> his Voyce (ſaith the Lord) for my <hi>Name</hi> is in him, <hi>Exod.</hi> 23.21. God was in Chriſt, <hi>Reconciling</hi> the World unto himſelf, not <hi>imputing</hi> their Treſpaſſes unto them, 2 <hi>Cor.</hi> 5.19. This is the <hi>Name</hi> where-with he ſhall be called the <hi>Lord</hi> our Righteouſneſs, <hi>Jer.</hi> 23.6. And his Name ſhall be <hi>Je<g ref="char:EOLhyphen"/>ſus,</hi> for he ſhall <hi>ſave</hi> his People
+<pb n="38" facs="tcp:35285:25"/>from their ſins, <hi>Matth.</hi> 1.21. When we ſee nothing in our ſelves to reſt upon, (as in the caſe of de<g ref="char:EOLhyphen"/>ſertion) no <hi>ſight</hi> of Graces, no <hi>light</hi> of comfort there-from, as in <hi>Pauls</hi> Voyage by Sea for many days to<g ref="char:EOLhyphen"/>gether, neither the <hi>light</hi> of the Sun, nor <hi>Stars</hi> appeared, <hi>Act.</hi> 27.20. Yet then the <hi>Name</hi> of God will <hi>ſtay</hi> and bear up the drooping ſpirit of a Chriſtian. My <hi>fleſh</hi> and my heart faileth (ſaith <hi>David</hi>) but God is the <hi>ſtrength</hi> of my heart, and my <hi>portion</hi> for ever, <hi>Pſal.</hi> 73.26. And though my <hi>Houſe</hi> be not ſo with God, <hi>i. e.</hi> as the <hi>tender</hi> Graſs ſpringing out of the Earth by the clear <hi>ſhining</hi> of the <hi>Sun</hi> after Rain, yet he hath made, with me, an <hi>e<g ref="char:EOLhyphen"/>verlasting Covenant,</hi> ordered in all things and <hi>ſure;</hi> for this is all my <hi>Salvation,</hi> and all my <hi>deſire,</hi> al<g ref="char:EOLhyphen"/>though he make it not to grow, 2 <hi>Sam.</hi> 23.5.</p>
+            </div>
+            <div n="6" type="direction">
+               <pb n="39" facs="tcp:35285:25"/>
+               <head>DIRECTION VI.</head>
+               <p>
+                  <hi>[On which I ſhall a little inlarge.]</hi>
+               </p>
+               <p>Furniſh thy ſelf with fit <hi>matter</hi> out of the holy <hi>Scriptures,</hi> for Hea<g ref="char:EOLhyphen"/>venly thoughts and <hi>meditations,</hi> that thy heart may <hi>endite</hi> and meditate a good matter, and thy <hi>Tongue</hi> may be as the <hi>Pen</hi> of a ready Writer, <hi>Pſal.</hi> 45.1. The Lord help thee (poor <hi>Soul</hi>) not only to <hi>read</hi> theſe <hi>Divine</hi> writings, but to meditate therein <hi>day</hi> and night, to <hi>hide</hi> them and lay them up in thy heart as a divine <hi>Cordial</hi> to revive and com<g ref="char:EOLhyphen"/>fort thee; as a divine <hi>Lamp</hi> to guide and direct thee, <hi>Pſal.</hi> 119.92, 105. and as part of the ſpiritual <hi>Armour,</hi> to enable thee to <hi>vanquiſh</hi> thy ſpi<g ref="char:EOLhyphen"/>ritual <hi>Enemies</hi> in the Hour of Temp<g ref="char:EOLhyphen"/>tation, <hi>Eph.</hi> 6.13.</p>
+               <p>
+                  <hi>David,</hi> even in thoſe dark times, before the <hi>Incarnation</hi> of Chriſt,
+<pb n="40" facs="tcp:35285:26"/>profeſſeth of himſelf, that the <hi>Word</hi> of God was in the mid'ſt of his <hi>Bowels,</hi> Pſal. 40.8. And that he had <hi>hid</hi> the word in his <hi>heart,</hi> that he might not <hi>Sin</hi> againſt God, <hi>Pſal.</hi> 119.11. And <hi>Hierom</hi> tells us of one <hi>Nepotian,</hi> who by long and aſſiduous <hi>Meditation</hi> of the holy Scriptures, had made his breaſt the <hi>Library</hi> of Jeſus Chriſt, in reſpect of <hi>Divine</hi> thoughts and cogitations. Holy <hi>Job</hi> eſteem'd the <hi>Word</hi> of God more than his <hi>neceſſary</hi> food, <hi>Job</hi> 23.12. And the <hi>Pſalmist</hi> preferr'd it before the <hi>Honey</hi> and the Honey<g ref="char:EOLhyphen"/>comb; before great <hi>ſpoyles,</hi> and thouſands of <hi>Gold</hi> and Silver, <hi>Pſal.</hi> 19.9. <hi>Pſal.</hi> 119.103, 162. And the bleſſed <hi>Apostle</hi> commands us not only to have the <hi>word</hi> of Chriſt <hi>with</hi> us, but <hi>in</hi> us; and not only to have it <hi>in</hi> us, but to have it <hi>dwell<g ref="char:EOLhyphen"/>ing</hi> and abiding <hi>in</hi> us richly, in all <hi>Wiſdom</hi> and ſpiritual underſtanding, <hi>Col.</hi> 3.16.</p>
+               <pb n="41" facs="tcp:35285:26"/>
+               <p>As for <hi>Mens</hi> writings, they are mingled with Vanity, Miſtakes, Imperfections, Corruptions, ſavour<g ref="char:EOLhyphen"/>ing too much of a carnal Spirit; but God's Word<note n="*" place="margin">In Sacra <hi>Scrip<g ref="char:EOLhyphen"/>tura</hi> quicquid do<g ref="char:EOLhyphen"/>cet <hi>veritas,</hi> quic<g ref="char:EOLhyphen"/>quid praecipitur <hi>bonitas,</hi> quicquid promittitur <hi>felici<g ref="char:EOLhyphen"/>tas:</hi> Nam Deus <hi>veritas</hi> eſt ſine fallacia, <hi>bonitas</hi> ſine malitia, <hi>fell<g ref="char:EOLhyphen"/>citas</hi> ſine miſeria.</note> is ſatisfactorily <hi>full,</hi> without all Vani<g ref="char:EOLhyphen"/>nity, moſt <hi>Wiſe,</hi> Faithful and True, without Falſhood or <hi>Folly; compleat<g ref="char:EOLhyphen"/>ly</hi> perfect, with<g ref="char:EOLhyphen"/>out the leaſt Im<g ref="char:EOLhyphen"/>perfection; moſt <hi>pure</hi> and refined, without Corrup<g ref="char:EOLhyphen"/>tion or <hi>Carnal</hi> mixtures; wholly <hi>Spi<g ref="char:EOLhyphen"/>ritual,</hi> ſweetly reſembling that moſt <hi>Divine</hi> Spirit which endited the Scriptures.</p>
+               <p>Here are unfolded the <hi>myſteries</hi> of the Covenant of Grace made up of Heavenly <hi>Cordials</hi> for <hi>Sin-ſick</hi> ſouls: Here are the <hi>promiſes</hi> of this
+<pb n="42" facs="tcp:35285:27"/>life, and of that which is to come, exceeding great and precious: Here are the <hi>comforts</hi> of God able to counterpoiſe and overcome the great<g ref="char:EOLhyphen"/>eſt <hi>ſadneſs</hi> and ſorrow.</p>
+               <p>Art thou <hi>poor?</hi> Here's a <hi>Treaſury</hi> of Riches: Art thou <hi>ſick?</hi> here's a Shop of <hi>Soul-medicines:</hi> Art thou <hi>fainting?</hi> here's a <hi>Cabinet</hi> of preci<g ref="char:EOLhyphen"/>ous Cordials: Art thou <hi>Afflicted?</hi> here's thy <hi>Solace:</hi> Art thou <hi>Perſe<g ref="char:EOLhyphen"/>cuted?</hi> here's thy <hi>Protection:</hi> Art thou <hi>deſerted?</hi> here's thy <hi>ſupport:</hi> Art thou <hi>Tempted?</hi> here's thy <hi>Victo<g ref="char:EOLhyphen"/>ry:</hi> Whilſt thou liveſt, here's the <hi>Rule</hi> of thy Converſation; and when thou <hi>dyeſt,</hi> here's the <hi>hope</hi> of thy <hi>Glorification;</hi> and therefore, well might one of the <hi>Antients</hi> profeſs that he <hi>adored</hi> the <hi>fulneſs</hi> of the <hi>Scriptures:</hi> And <hi>Luther</hi> himſelf uſed to ſay, he would rather <hi>eat</hi> up his own <hi>Writings</hi> (which yet were in<g ref="char:EOLhyphen"/>ſtrumental to give much Heavenly
+<pb n="43" facs="tcp:35285:27"/>light and knowledge) than that <hi>Peo<g ref="char:EOLhyphen"/>ple,</hi> by reading them, ſhould <hi>neglect</hi> the reading and ſtudying of the <hi>Holy</hi> Scriptures.</p>
+               <p>This is the Book of <hi>Books</hi> (as <hi>David</hi> ſaid of <hi>Goliah</hi>'s Sword) there's none like that.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Ex allis paleae viles, hinc</hi> grana <hi>leguntur</hi>
+                     </l>
+                     <l>Aurea: <hi>Tu paleas linquito,</hi> grana <hi>lege.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Mens <hi>Books</hi> with worthleſs <hi>Chaff</hi> are ſtor'd;</l>
+                     <l>God's <hi>Scriptures</hi> golden <hi>grains</hi> af<g ref="char:EOLhyphen"/>ford.</l>
+                     <l>Reject the <hi>Chaff,</hi> and ſpend thy <hi>pains,</hi>
+                     </l>
+                     <l>In Gleaning up theſe <hi>golden</hi> Grains.</l>
+                  </lg>
+               </q>
+               <p>The <hi>Holy</hi> Scripture is profitable for <hi>Doctrine,</hi> for <hi>Reproof,</hi> for Cor<g ref="char:EOLhyphen"/>rection, for <hi>Inſtruction</hi> in the paths
+<pb n="44" facs="tcp:35285:28"/>of Righteouſneſs, and for <hi>Support</hi> and Conſolation; that drooping <hi>dejected</hi> Spirits, may not be over<g ref="char:EOLhyphen"/>whelmed with <hi>Satan's</hi> Temptati<g ref="char:EOLhyphen"/>ons.</p>
+               <p>This ſweet <hi>Conſolatory</hi> Vertue, and Soul-ſupporting Property of the Scriptures, is demonſtrated by the happy <hi>Experience</hi> and Senſe of Spi<g ref="char:EOLhyphen"/>ritual Comfort and Refreſhing, which Saints find therein; even ſuch of them as are exerciſed with great Dolors and Troubles of Spi<g ref="char:EOLhyphen"/>rit.</p>
+               <p>Thus <hi>David</hi> did <hi>comfort</hi> and ſup<g ref="char:EOLhyphen"/>port himſelf with the <hi>word</hi> of God in his ſaddeſt Affliction: This is my <hi>Comfort</hi> in my Affliction (ſaith he) for thy <hi>Word</hi> hath quickned me: And, unleſs thy <hi>word</hi> had been my <hi>delight,</hi> I had <hi>periſhed</hi> in my Af<g ref="char:EOLhyphen"/>fliction, <hi>Pſal.</hi> 119.50, 51, 92.</p>
+               <p>
+                  <hi>Paul</hi> writes unto the Saints at <hi>Theſſalonica,</hi> that they ſhould <hi>com<g ref="char:EOLhyphen"/>fort</hi>
+                  <pb n="45" facs="tcp:35285:28"/>one another with theſe Words, 1 <hi>Theſ.</hi> 4.13. And the Love-ſick <hi>Spouſe</hi> (being ready to fall into a Spiritual <hi>Swound</hi> through the Senſe of Chriſt's <hi>Estrangements</hi> from Her) cryes out to the Miniſters of the <hi>Word,</hi> the Friends of the <hi>Bride<g ref="char:EOLhyphen"/>groom;</hi> O <hi>ſtay</hi> me with <hi>Flaggons,</hi> and comfort me with <hi>Apples,</hi> for I am <hi>ſick</hi> of Love, <hi>Cant.</hi> 2.5. Wine and Apples are <hi>pleaſant</hi> refreſhing Cordials to fainting Spirits; And, ſo are the <hi>pretious</hi> Promiſes, and ſweet Doctrines of Chriſt, to ſad and <hi>penſive</hi> Souls.</p>
+               <p>
+                  <hi>Auguſtine,</hi> and his dear Compa<g ref="char:EOLhyphen"/>nion <hi>Alipius,</hi> How were they in their great <hi>Soul</hi>-Afflictions, raiſed up and <hi>comforted,</hi> with two Senten<g ref="char:EOLhyphen"/>ces of Scripture? <hi>Auguſtine</hi> (as he tells us in his <hi>Confeſſions, lib.</hi> 8. Cap. 12. Tom. 1.) deeply laying to heart his <hi>Sin</hi> and Miſery, ſuch a mighty <hi>Storm</hi> aroſe in his <hi>Soul,</hi>
+                  <pb n="46" facs="tcp:35285:29"/>as brought a <hi>ſhower</hi> of <hi>Tears;</hi> where<g ref="char:EOLhyphen"/>upon, he <hi>with-drew</hi> from <hi>Alipius</hi> a good <hi>diſtance,</hi> that he might more freely and fully <hi>pour</hi> out himſelf in <hi>Tears.</hi> I laid me down (<hi>ſaith</hi> he) under a certain <hi>Fig-Tree,</hi> I know not how; and I opened <hi>Sluce</hi> to <hi>Tears,</hi> and the <hi>Floods</hi> of mine Eyes burſt out, thy <hi>acceptable</hi> Sa<g ref="char:EOLhyphen"/>crifice: And, not in theſe <hi>Words,</hi> but to this <hi>Senſe,</hi> I ſpake many things to <hi>Thee;</hi> But thou, O <hi>Lord,</hi> how long! How <hi>long</hi> wilt thou be <hi>angry</hi> for ever! O <hi>Remember</hi> not former Iniquities! For, I felt my ſelf <hi>held</hi> by them, and I caſt forth <hi>miſerable</hi> Expreſſions: How <hi>long!</hi> How <hi>long!</hi> To-<hi>Morrow,</hi> and To-Morrow! Why not now? Why not this Hour, an end of my Filthineſs? Theſe things I ſpake, and <hi>wept</hi> in the bitter <hi>Con<g ref="char:EOLhyphen"/>trition</hi> of my Heart. And behold! I heard a <hi>Voyce</hi> (as of a Boy or
+<pb n="47" facs="tcp:35285:29"/>Girle, I know not whether) from a <hi>neighbouring</hi> Houſe, ſaying, (with <hi>Singing,</hi> and oft re<g ref="char:EOLhyphen"/>peating)<note n="*" place="margin">
+                     <hi>Tolle</hi> lege, <hi>Tolle</hi> lege.</note> 
+                  <hi>Take</hi> up and <hi>Read,</hi> Take up and <hi>Read.</hi> And preſently, with changed <hi>countenance,</hi> I <hi>inten<g ref="char:EOLhyphen"/>tively</hi> began to think, whether Boyes in Playing were wont to <hi>ſing</hi> any ſuch thing; Nor, could I <hi>remem<g ref="char:EOLhyphen"/>ber,</hi> that ever I heard it. The vio<g ref="char:EOLhyphen"/>lence of my <hi>Tears</hi> being repreſſed, I roſe up; Interpreting nothing elſe to be <hi>divinely</hi> commanded me, than that I ſhould <hi>open</hi> the Book, and <hi>read</hi> what <hi>Chapter</hi> I firſt found; For, I had heard of <hi>Antonius,</hi> that by Reading of the <hi>Goſpel</hi> (which he happily light upon) he was <hi>ad<g ref="char:EOLhyphen"/>moniſhed,</hi> as if what he had <hi>read,</hi> had been ſpoken to him; <hi>Go,</hi> and <hi>ſell</hi> all that thou haſt, and <hi>give</hi> to the <hi>Poor,</hi> and thou ſhalt have <hi>Trea<g ref="char:EOLhyphen"/>ſure</hi> in Heaven, and come <hi>follow</hi>
+                  <pb n="48" facs="tcp:35285:30"/>me; and that, by this <hi>Oracle</hi> he was preſently <hi>converted</hi> to thee. There<g ref="char:EOLhyphen"/>fore, being thus <hi>incited,</hi> I returned to the ſame <hi>place</hi> where <hi>Alipius</hi> ſate; for, there I had laid the <hi>Apoſtle's</hi> Book, when I thence roſe: I ſnatch'd it up, opened, and ſilently <hi>read</hi> that Chapter on which mine <hi>Eyes</hi> were firſt <hi>cast:</hi> Not in <hi>Rioting</hi> and <hi>Drunkenneſs,</hi> not in <hi>Chambering</hi> and Wantonneſs, not in <hi>Strife</hi> and Envying; But, <hi>put</hi> ye on the <hi>Lord</hi> Jeſus Chriſt, and make no <hi>Provi<g ref="char:EOLhyphen"/>ſion</hi> for the Fleſh, to <hi>fulfill</hi> the <hi>Luſts</hi> thereof, <hi>Rom.</hi> 13.13, 14. Nor would I <hi>read</hi> further; nor was there <hi>need:</hi> For preſently, with the <hi>cloſe</hi> of this <hi>Sentence,</hi> as it were with the <hi>light</hi> of Security infuſed into mine Heart, all my <hi>darkſom Doub<g ref="char:EOLhyphen"/>tings</hi> fled away. Then, either put<g ref="char:EOLhyphen"/>ting my <hi>Finger</hi> in the place, or what other <hi>ſigne</hi> I know not, I ſhut the Book; and, with a <hi>chearful</hi> Coun<g ref="char:EOLhyphen"/>tenance,
+<pb n="49" facs="tcp:35285:30"/>I told it to <hi>Alipius.</hi> But, what was done in <hi>himſelf,</hi> which I knew not, he thus <hi>declared:</hi> He asks to ſee what I <hi>read,</hi> I ſhewed it; and, he <hi>attended</hi> further than I read, I not knowing what followed; But it followed, <hi>Him</hi> that is <hi>weak</hi> in the <hi>Faith</hi> receive ye, <hi>Rom.</hi> 14.1. which he <hi>applyed</hi> to himſelf, and <hi>opened</hi> unto me: But, by this <hi>Ad<g ref="char:EOLhyphen"/>monition</hi> he was Confirmed; and, without all <hi>turbulent</hi> delay, was <hi>conjoyned</hi> in a good Pleaſure and <hi>purpoſe,</hi> moſt <hi>congruous</hi> to his Man<g ref="char:EOLhyphen"/>ners, wherein he long ago excelled me. Thereupon, we go in to my <hi>Mother;</hi> tell her: She rejoyceth; We declare how it was done; She <hi>exults</hi> and Tryumphs, and bleſſeth <hi>Thee</hi> who art <hi>able</hi> to do, <hi>above All</hi> that we are to ask or think; Be<g ref="char:EOLhyphen"/>cauſe ſhe <hi>ſaw,</hi> that thou hadſt <hi>gran<g ref="char:EOLhyphen"/>ted</hi> her far more concerning <hi>me,</hi> than ſhe was wont with her <hi>miſe<g ref="char:EOLhyphen"/>rable</hi>
+                  <pb n="50" facs="tcp:35285:31"/>and lamentable <hi>Groans,</hi> to ask of Thee. Thus far <hi>Auguſ<g ref="char:EOLhyphen"/>tine.</hi>
+               </p>
+               <p>Who would not now delight to <hi>read</hi> and underſtand the <hi>Divine</hi> Scrip<g ref="char:EOLhyphen"/>tures, whereby <hi>Auguſtine</hi> and <hi>Ali<g ref="char:EOLhyphen"/>pius</hi> were thus Converted and Com<g ref="char:EOLhyphen"/>forted?</p>
+               <p>Mr. <hi>Fox,</hi> in his Acts and <hi>Monu<g ref="char:EOLhyphen"/>ments</hi> tells us, That Mr. <hi>Bilney,</hi> the bleſſed <hi>Martyr,</hi> having been long under great <hi>Doubts</hi> and Fears in his Soul, (whil'ſt he adhered to the <hi>Popiſh</hi> Doctrines); at length, opening the <hi>New</hi>-Teſtament, he light on that <hi>Text,</hi> 1 <hi>Tim.</hi> 1.15. This is a <hi>faithful</hi> Saying, and wor<g ref="char:EOLhyphen"/>thy of all <hi>acceptation,</hi> That Chriſt <hi>Jeſus</hi> came into the World, to <hi>ſave</hi> Sinners, of whom I am <hi>chief;</hi> which God ſo bleſſed to him, that there<g ref="char:EOLhyphen"/>by his <hi>doubts</hi> and Fears were <hi>diſ<g ref="char:EOLhyphen"/>pell'd,</hi> and he received much ſpiri<g ref="char:EOLhyphen"/>tual Peace and <hi>Comfort</hi> in the <hi>Aſſu<g ref="char:EOLhyphen"/>rance</hi>
+                  <pb n="51" facs="tcp:35285:31"/>of the love of God from this <hi>free</hi> promiſe of Grace.</p>
+               <p>Biſhop <hi>Latimer</hi> (that Godly <hi>Mar<g ref="char:EOLhyphen"/>tyr</hi>) ſtanding at the <hi>Stake,</hi> ready to ſhed his blood for the <hi>Truth,</hi> lift<g ref="char:EOLhyphen"/>ing up his Eyes to <hi>Heaven</hi> with an amiable and chearful Countenance, <hi>comforted</hi> himſelf with that Scrip<g ref="char:EOLhyphen"/>ture, <hi>Faithful is God who will not</hi> ſuffer <hi>us to be</hi> tempted <hi>above what we are able,</hi> 1 Cor. 10.13.</p>
+               <p>
+                  <hi>Alice Benden,</hi> Martyr, being kept in <hi>Priſon</hi> nine weeks with <hi>Bread</hi> and Water, and Sequeſtered from her <hi>Companions,</hi> was in great heavineſs and <hi>Soul</hi> diſtreſs, till on a <hi>Night,</hi> as ſhe was in her <hi>ſorrowful</hi> Supplica<g ref="char:EOLhyphen"/>tions, rehearſing thoſe words, <hi>Why art thou</hi> caſt <hi>down, O my</hi> Soul, <hi>&amp;c.</hi> And again, The <hi>Right Hand</hi> of the moſt High can <hi>change</hi> all this; ſhe received much <hi>comfort.</hi>
+               </p>
+               <p>Mr. <hi>Midgeley,</hi> Miniſter at <hi>Ratch<g ref="char:EOLhyphen"/>dale</hi> in <hi>Yorkſhire,</hi> oppreſſed with
+<pb n="52" facs="tcp:35285:32"/>
+                  <hi>melancholly</hi> thoughts and temptations to <hi>Self-murther;</hi> and going down to the Water-ſide to <hi>Drown</hi> himſelf, having the <hi>New-Teſtament</hi> in his Pocket, it came into his <hi>thoughts,</hi> before he flung himſelf in, to read a little in his <hi>Teſtament;</hi> and open<g ref="char:EOLhyphen"/>ing the ſame, he happily caſt his <hi>Eye</hi> upon that precious word of <hi>Grace, Come</hi> unto me <hi>all ye</hi> that <hi>la<g ref="char:EOLhyphen"/>bour</hi> and are <hi>heavy laden,</hi> and I will give you <hi>Reſt,</hi> Matth. 11.28, 29. Whereupon this poor <hi>tempted</hi> Soul was much <hi>revived,</hi> and broke forth into theſe words, <hi>Say'ſt</hi> thou ſo? then I will not <hi>down</hi> my ſelf. 'Tis well obſerved by a <hi>Godly</hi> Writer, that we had better want <hi>Meat,</hi> Drink, the <hi>light</hi> of the <hi>Sun,</hi> Aire, <hi>Earth,</hi> and all the <hi>Elements,</hi> yea, <hi>Life</hi> it ſelf, than that one <hi>ſweet</hi> Sentence of our Saviour, <hi>Come unto me,</hi> &amp;c.</p>
+               <p>Mrs. <hi>Katherine Brettergh</hi> (who was wont to <hi>task</hi> her ſelf to the reading
+<pb n="53" facs="tcp:35285:32"/>at leaſt eight <hi>Chapters</hi> of Scripture every day) in her <hi>Sickneſs,</hi> before her Death<note n="*" place="margin">Vid. <hi>Mr.</hi> Will. Leigh's <hi>Souls</hi>-Solace <hi>against ſor<g ref="char:EOLhyphen"/>row.</hi>
+                  </note> ſhe fell into great <hi>diſtreſs</hi> and anguiſh of Spirit; ſome<g ref="char:EOLhyphen"/>times ſhe would caſt her Bible from her, and ſay, it was indeed the Book of Life, but ſhe had <hi>read</hi> the ſame unprofitably, and therefore <hi>feared</hi> it was become to her the <hi>Book</hi> of Death: Sometimes ſhe would <hi>ſay</hi> her <hi>ſins</hi> had made her a prey to <hi>Satan,</hi> a ſpectacle to the <hi>World,</hi> a diſgrace to <hi>Religion,</hi> and a ſhame to her Husband, Kindred, and all true Chriſtians: And here ſhe would <hi>weep</hi> moſt bitterly; ſhe wiſhed ſhe had never been <hi>Born,</hi> or that ſhe had been any other Creature rather than a <hi>Woman:</hi> She would often <hi>cry</hi> out <hi>Woe, Woe, Woe,</hi> &amp;c. a weak, a <hi>wo<g ref="char:EOLhyphen"/>ful,</hi> a <hi>wretched,</hi> a forſaken <hi>Woman!</hi> and utter ſuch like <hi>pittiful</hi> Com<g ref="char:EOLhyphen"/>plaints
+<pb n="54" facs="tcp:35285:33"/>againſt her ſelf, with <hi>Tears</hi> continually trickling down her Cheeks. But at <hi>laſt,</hi> before her death, ſhe was <hi>raiſed</hi> up to unſpeak<g ref="char:EOLhyphen"/>able joys and comforts by applying <hi>Scripture</hi>-promiſes: Oh ſaid ſhe, my <hi>ſoul</hi> hath been compaſſed about with <hi>terrors</hi> of Death, fear <hi>within,</hi> and fear without; the ſorrows of <hi>Hell</hi> were upon me, and a <hi>roaring</hi> Wil<g ref="char:EOLhyphen"/>derneſs of <hi>Woe</hi> was within me (which ſhe repeated again and again): But <hi>Bleſſed,</hi> Bleſſed, <hi>Bleſſed</hi> be the Lord my God, who hath not <hi>left</hi> me <hi>Comfortleſs.</hi> One time ſhe took her <hi>Bible</hi> in her hand, and looking up towards <hi>Heaven,</hi> ſhe ſaid, O <hi>Lord,</hi> it is good for me that I have been <hi>Afflicted,</hi> that I might <hi>learn</hi> thy Statutes; the <hi>Word</hi> of the Lord is <hi>better</hi> to me than <hi>thouſands</hi> of Gold and Silver. She <hi>deſired</hi> her Husband to read ſome part of Scrip<g ref="char:EOLhyphen"/>ture to her; he read that <hi>excellent</hi>
+                  <pb n="55" facs="tcp:35285:33"/>Chapter, <hi>John</hi> 17. and as he read <hi>v.</hi> 9. ſhe interrupted him, ſaying, O Lord <hi>Jeſus,</hi> doſt thou indeed <hi>pray</hi> for me? O Bleſſed and Sweet <hi>Saviour,</hi> how <hi>wonderful,</hi> how won<g ref="char:EOLhyphen"/>derful, how wonderful are thy Mer<g ref="char:EOLhyphen"/>cies! When he came to <hi>v.</hi> 24. Father, I <hi>will</hi> that they <hi>whom thou haſt given me,</hi> &amp;c. Stay, ſaid ſhe, and let me <hi>meditate</hi> on the good<g ref="char:EOLhyphen"/>neſs of the Lord, for now I per<g ref="char:EOLhyphen"/>ceive and <hi>feel</hi> the <hi>Countenance</hi> of Chriſt, my <hi>Redeemer,</hi> is turned to<g ref="char:EOLhyphen"/>wards me, and the <hi>bright</hi> ſhining <hi>Beams</hi> of his Mercy are ſpread o<g ref="char:EOLhyphen"/>ver me: Oh <hi>happy</hi> am I that ever I was <hi>Born,</hi> to ſee this <hi>Bleſſed</hi> day: <hi>Praiſe,</hi> praiſe, Oh <hi>praiſe</hi> the Lord for his <hi>Mercies,</hi> for He hath brought me out of <hi>darkneſs,</hi> and the <hi>ſhadow</hi> of death! O my ſweet <hi>Saviour!</hi> ſhall I be <hi>one</hi> with thee, as thou art <hi>one</hi> with thy <hi>Father?</hi> and wilt thou <hi>Glorifie</hi> me with that <hi>Glory</hi>
+                  <pb n="56" facs="tcp:35285:34"/>which thou had'ſt with the <hi>Father</hi> before the <hi>World</hi> was? And doſt thou ſo <hi>love</hi> me that am but <hi>Duſt</hi> and Aſhes, as to make me parta<g ref="char:EOLhyphen"/>ker of <hi>Glory</hi> with Chriſt? What am I, poor <hi>Wretch,</hi> that thou art ſo <hi>mindful</hi> of me? Oh how <hi>wonderful,</hi> how <hi>wonderful,</hi> how <hi>wonderful</hi> is thy <hi>Love?</hi> To a Chriſtian <hi>Friend</hi> that came to <hi>ſee</hi> her, wondering at her <hi>joys;</hi> ſhe ſaid, O the <hi>joys,</hi> the joys, the <hi>joys</hi> that I feel in my <hi>ſoul!</hi> they be <hi>wonderful,</hi> they be <hi>wonder<g ref="char:EOLhyphen"/>ful,</hi> they be <hi>wonderful!</hi> Thus ſhe was <hi>raviſhed</hi> in Spirit, and <hi>try<g ref="char:EOLhyphen"/>umphed</hi> in the praiſes of God. At <hi>last,</hi> with a ſweet <hi>Countenance</hi> and ſtill <hi>Voyce,</hi> ſhe ſaid, My <hi>Warfare</hi> is accompliſhed, and mine <hi>Iniquities</hi> are pardoned: Lord, whom have I in <hi>Heaven</hi> but thee? And I have <hi>none</hi> on <hi>Earth</hi> but thee: My <hi>Fleſh</hi> faileth, and my <hi>Heart</hi> alſo, but God is the <hi>ſtrength</hi> of mine <hi>Heart,</hi>
+                  <pb n="57" facs="tcp:35285:34"/>and my <hi>Portion</hi> for ever. He that preſerveth <hi>Jacob,</hi> and defendeth his <hi>Iſrael,</hi> he is my <hi>God,</hi> and will <hi>guide</hi> me unto <hi>Death.</hi> Guide me O <hi>Lord,</hi> my God, and <hi>ſuffer</hi> me not to <hi>faint,</hi> but keep my ſoul in <hi>ſafety,</hi> and with that ſhe preſently fell <hi>aſleep</hi> in the Lord.</p>
+               <p>Mr. <hi>John Holland,</hi> an eminent Saint and <hi>Preacher</hi> of the Goſpel, did wonderfully raiſe and <hi>comfort</hi> himſelf with the <hi>holy</hi> Scriptures; even in the Valley of the <hi>Shaddow</hi> of Death, his Heart was <hi>repleniſhed</hi> with Heavenly Thoughts and <hi>De<g ref="char:EOLhyphen"/>lights.</hi> The Day before he <hi>dyed,</hi> he called for the <hi>holy</hi> Bible with theſe very <hi>words,</hi> Come, O <hi>come!</hi> Death <hi>approacheth,</hi> let us gather ſome <hi>Flowers</hi> to <hi>comfort</hi> in this <hi>Hour:</hi> And, turning with his own Hands to the <hi>Eight Chapter</hi> of the Epiſtle to the <hi>Romans,</hi> he gave me the <hi>Book</hi> (ſaith Mr. <hi>Leigh,</hi> who
+<pb n="58" facs="tcp:35285:35"/>relates theſe Paſſages in a <hi>printed</hi> Book) and bade me <hi>Read:</hi> At the end of every <hi>Verſe,</hi> he made a <hi>Se<g ref="char:EOLhyphen"/>lah</hi> or Pauſe, and gave the Senſe in ſuch ſort and feeling, as (we per<g ref="char:EOLhyphen"/>ceived) was much to his own <hi>Comfort,</hi> but more to our Joy and <hi>Wonder.</hi> Having thus continued his <hi>Medita<g ref="char:EOLhyphen"/>tion</hi> and Expoſition for the ſpace of <hi>two</hi> Hours, or more; on the <hi>ſuddain</hi> he ſaid, <hi>O ſtay</hi> your reading; What <hi>Brightneſs</hi> is this I ſee? Have ye <hi>light</hi> up any Candles? To which it was Anſwered, <hi>No;</hi> It is the <hi>Sun</hi>-Shine: For, it was about five a <hi>Clock,</hi> in a clear <hi>Summer's</hi>-Even<g ref="char:EOLhyphen"/>ing. <hi>Sun-ſhine</hi> (ſaith he?) nay, my <hi>Saviour's</hi> Shine: Now, <hi>fare<g ref="char:EOLhyphen"/>well</hi> World, welcome <hi>Heaven;</hi> The Day-<hi>Starr</hi> from on high hath <hi>viſi<g ref="char:EOLhyphen"/>ted</hi> mine Heart. O ſpeak it when I am <hi>gone,</hi> and Preach it at my <hi>Fu<g ref="char:EOLhyphen"/>neral,</hi> That God dealeth <hi>familiarly</hi> with <hi>Man!</hi> I feel his <hi>Mercy,</hi> I ſee
+<pb n="59" facs="tcp:35285:35"/>his Majeſty, whether in the <hi>Body</hi> or out of the <hi>Body,</hi> I cannot <hi>tell;</hi> God, He knoweth; But, I <hi>ſee Things</hi> that are <hi>unutterable:</hi> And, <hi>raiſing</hi> himſelf, as <hi>Jacob</hi> did upon his <hi>Staff,</hi> he ſhut up his bleſſed Life, with theſe bleſſed <hi>words;</hi> O, <hi>What</hi> a <hi>hap<g ref="char:EOLhyphen"/>py</hi> Change ſhall I make! from Night to <hi>Day,</hi> from <hi>Darkneſs</hi> to Light; from <hi>Death</hi> to Life, from <hi>Sorrow</hi> to Solace; from a <hi>factious</hi> World, to a <hi>Heavenly</hi> Being: O my <hi>dear</hi> Bretheren, Siſters, and Friends, it pittieth me to <hi>leave</hi> you behind; yet, <hi>Remember</hi> my Death when I am <hi>gone:</hi> And, what I now <hi>feel,</hi> I hope you ſhall <hi>find</hi> ere you <hi>dye,</hi> That <hi>God doth and will deal familiarly with Men.</hi> And now thou <hi>fiery</hi> Chariot, that came down to fetch up <hi>Eliah,</hi> carry me to my happy <hi>Hold;</hi> And all ye bleſſed <hi>Angels,</hi> who attended the Soul of <hi>Lazarus</hi> to bring it up to <hi>Heaven,</hi>
+                  <pb n="60" facs="tcp:35285:36"/>bear me, O <hi>bear</hi> me into the <hi>Bo<g ref="char:EOLhyphen"/>ſom</hi> of my beſt <hi>Beloved; Amen, Amen.</hi> Come Lord <hi>Jeſus,</hi> come <hi>quickly.</hi> And ſo he fell <hi>aſleep.</hi>
+               </p>
+               <p>O therefore, <hi>Enrich</hi> thy Soul with thoſe Hevenly <hi>Treaſures,</hi> and <hi>fill</hi> thy Heart with thoſe bleſſed <hi>Truths,</hi> and Divine <hi>Myſteries,</hi> that are con<g ref="char:EOLhyphen"/>tained in the <hi>Scriptures;</hi> as the Saints whom I have mentioned, and many <hi>thouſands</hi> more have done in their great Straits and Temptations. Acknowledge the Goodneſs of God, and <hi>magnifie</hi> the Riches of his Grace towards poor Sinners: Many and <hi>wonderful,</hi> O Lord my God, are Thy <hi>Thoughts</hi> to us-ward, they are more than can be <hi>numbered, Pſal.</hi> 40.5. And again, How <hi>pretious</hi> are thy <hi>Thoughts</hi> unto me, O God? How <hi>great</hi> is the Sum of them, <hi>Pſal.</hi> 139.17.</p>
+               <pb n="61" facs="tcp:35285:36"/>
+               <p>Now, that thou may'ſt, have a <hi>right</hi> and ſpiritual underſtanding of the Holy Scriptures (whilſt thou readeſt them) for the benefit and comfort of thy <hi>ſad</hi> diſconſolate ſoul:</p>
+               <p>
+                  <hi>Firſt,</hi> Beg Wiſdom of the only <hi>VViſe</hi> God, who gives <hi>liberally</hi> and <hi>upbraideth</hi> not, <hi>Jam.</hi> 1.5. that by God's <hi>VViſdom</hi> thou mayeſt know God's <hi>Mind,</hi> and diſcern the true ſence and meaning of the Scrip<g ref="char:EOLhyphen"/>tures by the <hi>Aſſiſtance</hi> of the Di<g ref="char:EOLhyphen"/>vine Spirit which <hi>Indited</hi> the ſame. What the <hi>VVoman</hi> ſaid of <hi>Jacob</hi>'s-Well, may be truly affi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>med of the <hi>Scriptures;</hi> Thou haſt nothing to <hi>draw</hi> with, and the <hi>VVell</hi> is deep, <hi>John</hi> 4.11. Scripture <hi>myſteries</hi> are profound, and our Capacities but ſhallow; <hi>deſire</hi> the Lord therefore to <hi>anoynt</hi> thine eyes with Eye<g ref="char:EOLhyphen"/>ſalve,
+<pb n="62" facs="tcp:35285:37"/>that thou mayeſt <hi>ſee;</hi> and to open thine <hi>Underſtanding,</hi> that thou may'ſt rightly and ſpiritually <hi>un<g ref="char:EOLhyphen"/>derſtand</hi> the Scriptures, <hi>Rev.</hi> 3.18. <hi>Pſal.</hi> 119.18. <hi>Luk.</hi> 24.45. <hi>Luther</hi> profeſſed, that he got more <hi>Under<g ref="char:EOLhyphen"/>ſtanding</hi> by <hi>Prayer</hi> than by all his <hi>Study</hi> beſides.</p>
+               <p>
+                  <hi>Secondly:</hi> Labour for a truly <hi>gracious</hi> Spirit, which being once <hi>attain'd,</hi> thou wilt be able to pene<g ref="char:EOLhyphen"/>trate into the inward <hi>Marrow</hi> and myſtery of the Holy Scriptures. He will beſt comprehend the true <hi>ſence</hi> of Scripture in his head, that hath it written and <hi>impreſs'd</hi> upon his heart. Thou wilt never (as one truly obſerves) underſtand <hi>Paul</hi>'s meaning, unleſs thou art <hi>endued</hi> with <hi>Paul</hi>'s ſpirit. The <hi>Secret</hi> of God is with them that <hi>fear</hi> him, and he will <hi>ſhew</hi> them his Covenant, <hi>Pſal.</hi>
+                  <pb n="63" facs="tcp:35285:37"/>25.12, 14. And Chriſt in the <hi>Goſpel,</hi> will manifeſt himſelf to them that <hi>Love</hi> him; and ſuch ſhall know the <hi>mind</hi> of the Lord, <hi>Joh.</hi> 14.21, 22, 23.</p>
+               <p>
+                  <hi>Thirdly:</hi> Come to the reading and peruſing of the <hi>Scriptures</hi> with an <hi>humble</hi> ſelf-denying frame of heart, and be not <hi>puffed</hi> up with a vain <hi>Conceit</hi> of thine own knowledge and <hi>attainments.</hi> He that <hi>thinks</hi> he knowes any thing, <hi>knowes</hi> nothing yet as he ought to know, 1 <hi>Cor.</hi> 8.2. <hi>Empty</hi> Veſſels are moſt <hi>recep<g ref="char:EOLhyphen"/>tive,</hi> and ſo are <hi>ſelf-emptied</hi> Chri<g ref="char:EOLhyphen"/>ſtians. It's a great <hi>help</hi> to Know<g ref="char:EOLhyphen"/>ledg, not to be <hi>ig<g ref="char:EOLhyphen"/>norant</hi> of our Igno<g ref="char:EOLhyphen"/>rance.<note n="*" place="margin">Deo meo <hi>gra<g ref="char:EOLhyphen"/>tias</hi> ago quod Ig<g ref="char:EOLhyphen"/>norantiam meam non ignoro.</note> The fruit<g ref="char:EOLhyphen"/>ful <hi>ſhowers</hi> quickly glide away from the <hi>lofty</hi> Hills; But they ſtay and ſmoke in the <hi>Low-Valleys.</hi> God, who <hi>reſists</hi> the Proud, gives
+<pb n="64" facs="tcp:35285:38"/>
+                  <hi>Grace</hi> and Spiritual Knowledge to the <hi>humble:</hi> With the <hi>Lowly</hi> is true Wiſdom, <hi>Prov.</hi> 11.2. And the <hi>Meek</hi> and Humble he will <hi>teach</hi> his Way, <hi>Pſal.</hi> 25.9. <hi>Math.</hi> 11.25.</p>
+               <p>
+                  <hi>Fourthly:</hi> Obſerve and <hi>eye</hi> Chriſt, and Salvation by him, as the very <hi>Scope,</hi> Marrow, and <hi>Subſtance</hi> of the <hi>whole</hi> Scriptures: What are the <hi>Scriptures,</hi> but as it were the Spi<g ref="char:EOLhyphen"/>ritual <hi>ſwadling</hi>-Cloaths of the Ho<g ref="char:EOLhyphen"/>ly Child <hi>Jeſus?</hi> He is the <hi>Truth</hi> and Subſtance of all the <hi>Types</hi> and Shaddows: He is the <hi>Matter</hi> and Quinteſcence of the <hi>Covenant</hi> of Grace, under all the Adminiſtrati<g ref="char:EOLhyphen"/>ons thereof. The <hi>Center</hi> of all the <hi>Promiſes,</hi> In whom they are, <hi>yea,</hi> and Amen, 2 <hi>Cor.</hi> 1.20. The <hi>Thing</hi> ſignifyed, <hi>ſealed,</hi> and exhibited in all the <hi>Sacraments</hi> of the Old and <hi>New</hi>-Teſtament. The <hi>holy</hi> Scrip<g ref="char:EOLhyphen"/>ture, What is it elſe but Chriſt's
+<pb n="65" facs="tcp:35285:38"/>
+                  <hi>Light,</hi> whereby we come to know him? Chriſt's <hi>Voyce,</hi> whereby we hear and follow Him? and Chriſt's <hi>Cords</hi> of Love, whereby we are drawn into ſweet <hi>Union</hi> and Fellowſhip with Him?</p>
+               <p>But to <hi>Conclude;</hi> Suppoſe thou ſhould'ſt have <hi>Breach</hi> upon Breach, and <hi>ſtill</hi> remain a ſad <hi>penſive</hi> Soul, all thy Dayes here in this <hi>Life,</hi> without any Spiritual Comfort or <hi>Inlargment</hi> (after all thy <hi>Wreſtlings</hi> and Endeavours), it may be for <hi>twenty,</hi> thirty, or <hi>forty</hi> Years; yet, What is this to Eternity? What if it were for a <hi>hundred</hi> Years, ſo thou com'ſt to <hi>Heaven</hi> at laſt, and eſcap'ſt thoſe Everlaſting <hi>Torments,</hi> which are prepared for the Wick<g ref="char:EOLhyphen"/>ed? Ye ſhall <hi>weep</hi> and lament (ſaith Chriſt to his <hi>Diſciples, Joh.</hi> 16.20.), but the <hi>World</hi> ſhall rejoyce; Yea, but your <hi>Sorrow</hi> ſhall be turn'd into
+<pb n="66" facs="tcp:35285:39"/>
+                  <hi>Joy,</hi> and the World's Rejoycing in<g ref="char:EOLhyphen"/>to <hi>Sorrow</hi> and Lamentation. <hi>Bleſ<g ref="char:EOLhyphen"/>ſed</hi> are they that <hi>mourn,</hi> for they ſhall be <hi>Comforted, Math.</hi> 5.4.</p>
+               <p>The Lord ſupports his People by the <hi>ſecret</hi> powerful Influence of his Grace, whil'ſt they walk in <hi>darkneſs,</hi> and want the <hi>Light</hi> of Spiritual <hi>Conſolation.</hi> And here let us <hi>conſider</hi> theſe four <hi>things:</hi>
+               </p>
+               <p n="1">(1.) God doth never <hi>totally de<g ref="char:EOLhyphen"/>ſert</hi> his Saints: The Lord will not <hi>for<g ref="char:EOLhyphen"/>ſake</hi> his People for his great <hi>Name's</hi> ſake, 1 <hi>Sam.</hi> 12.22. He hath ſaid, I will never <hi>leave</hi> thee, nor <hi>forſake</hi> thee, Heb. 13.5. The Words are <hi>Emphatical:</hi> Here is a <hi>Duplication</hi> of the Subject of the Promiſe, I will not <hi>leave,</hi> I will not forſake: And a <hi>Multiplication</hi> of Negatives; no fewer than five <hi>Negatives,</hi> by which God <hi>intimates,</hi> That he will
+<pb n="67" facs="tcp:35285:39"/>not, yea, he will not, ſurely he will not <hi>forſake</hi> his Servants; He will never <hi>wholly</hi> reject them, nor <hi>utterly</hi> leave them: If he <hi>leave</hi> them, 'tis but for a <hi>Seaſon;</hi> If he <hi>go</hi> from them, 'tis but as one that goes from <hi>home,</hi> to return ſpeedily again: I will not (ſaith Chriſt) leave you <hi>Comfortleſs,</hi> or as <hi>Orphans</hi> at Sixes and <hi>Sevens;</hi> but I will <hi>come</hi> to you, <hi>Joh.</hi> 14.18. He may ſometimes <hi>frown,</hi> but he will <hi>ſmile</hi> again: If at any time his <hi>Compaſſi<g ref="char:EOLhyphen"/>ons</hi> towards his People ſeem to be <hi>reſtrained,</hi> yet they cannot be <hi>ex<g ref="char:EOLhyphen"/>tinquiſhed.</hi>
+               </p>
+               <p n="2">(2.) Though God may vary in the <hi>Operations</hi> of his Love; yet his <hi>Love</hi> in it ſelf, is ſtill the <hi>ſame,</hi> and ſhall be the ſame for-ever, <hi>Jer.</hi> 31.3. <hi>Pſal.</hi> 89.30, 44. <hi>Joh.</hi> 13.1. In the <hi>Summer,</hi> there's Light inhe<g ref="char:EOLhyphen"/>rent in the <hi>Sun,</hi> and Light <hi>fluent</hi>
+                  <pb n="68" facs="tcp:35285:40"/>from the <hi>Sun;</hi> That's ever <hi>perfect</hi> and permanent; but <hi>this</hi> may ſuf<g ref="char:EOLhyphen"/>fer Changes, and be obſcured, as in the Night it happens. The <hi>Root</hi> doth not alwayes give ſo much <hi>Sapp</hi> to the <hi>Branches,</hi> as to make them Budd and <hi>Bloſſom;</hi> yet ſhe doth alwayes <hi>stick</hi> cloſe to them, and <hi>in<g ref="char:EOLhyphen"/>fluence</hi> and maintain them. A Fa<g ref="char:EOLhyphen"/>ther may have a dear <hi>Love</hi> to his Child, and yet <hi>ſhew</hi> but little of it in his Carriage, as <hi>David</hi> towards his Son <hi>Abſolon;</hi> and ſo it may be in this <hi>Caſe.</hi>
+               </p>
+               <p n="3">(3.) When God hides his <hi>Face</hi> from his People, he with-holds thoſe Acts of Love <hi>only,</hi> that are for their <hi>well-being;</hi> not thoſe that are for their <hi>being.</hi> Though a <hi>true</hi> Chriſtian may <hi>want</hi> that, without which he cannot have <hi>Comfort;</hi> yet he ſhall never want that, with<g ref="char:EOLhyphen"/>out which he cannot <hi>live:</hi> In this
+<pb n="69" facs="tcp:35285:40"/>reſpect, God never <hi>with-holds</hi> any <hi>good Thing</hi> from them that <hi>walk</hi> up<g ref="char:EOLhyphen"/>rightly, <hi>Pſal.</hi> 84.11.</p>
+               <p n="4">(4.) A <hi>Christian</hi> may miſs much of the <hi>External</hi> Preſence of God, and yet enjoy <hi>inward</hi> Communion with him; He may <hi>want</hi> the <hi>Comforting</hi> Preſence of God, (in reſpect of Soul-raviſhing Joyes and Inlargements) and yet at the ſame time, partake of the powerful <hi>gracious</hi> Influence of the Spirit of God, for his <hi>Suſ<g ref="char:EOLhyphen"/>tentation</hi> and Support: This doth never <hi>utterly</hi> forſake him: And this is <hi>oft-times</hi> moſt in <hi>Power,</hi> when it is leaſt in out-ward <hi>ſhew</hi> and Ap<g ref="char:EOLhyphen"/>pearance; and <hi>Saints</hi> have <hi>moſt</hi> of God, when they ſee him <hi>leaſt;</hi> whoſe gracious <hi>Power</hi> may, and doth <hi>ope<g ref="char:EOLhyphen"/>rate</hi> effectually, where there is but little <hi>Senſe</hi> and Feeling of it. <hi>Met<g ref="char:EOLhyphen"/>tals</hi> that lye deep under Ground,
+<pb n="70" facs="tcp:35285:41"/>and ſee not the <hi>Heavens;</hi> yet par<g ref="char:EOLhyphen"/>take of their Powerful Influence. When God cover'd <hi>Moyſes</hi> his Face in the <hi>Cleft</hi> of the Rock, <hi>Exod.</hi> 33.22. then did he <hi>paſs</hi> by, and gave <hi>Moyſes</hi> to ſee his <hi>Glory:</hi> So, the Clouds and <hi>Vailes,</hi> which now co<g ref="char:EOLhyphen"/>ver the Eyes of many Penſive <hi>diſ<g ref="char:EOLhyphen"/>conſolate</hi> Chriſtians, are often <hi>Fore<g ref="char:EOLhyphen"/>runners</hi> of the Cleareſt <hi>Light,</hi> and moſt Soul-raviſhing <hi>Sight</hi> of God.</p>
+               <p>How-ever (poor Soul) be con<g ref="char:EOLhyphen"/>tent to remain for a while in this World, without theſe <hi>Soul-raviſh<g ref="char:EOLhyphen"/>ing</hi> Joyes, and Taſts of Heaven, (if God will have it ſo): Doubt<g ref="char:EOLhyphen"/>leſs, there's a great <hi>Difference</hi> be<g ref="char:EOLhyphen"/>twixt the Condition of <hi>Saints</hi> in the Church-<hi>Militant,</hi> and the Church-<hi>Tryumphant.</hi> Heaven, at laſt, will make <hi>amends</hi> for All; and that <hi>glo<g ref="char:EOLhyphen"/>rious</hi> Communion with God, which
+<pb n="71" facs="tcp:35285:41"/>is Reſerved for the <hi>Saints</hi> in the Church-<hi>Tryumphant,</hi> will Counter<g ref="char:EOLhyphen"/>vail all the <hi>Sad</hi> and Sorrowful Thoughts, Preſſures, and Tempta<g ref="char:EOLhyphen"/>tions, which now they are <hi>expos'd</hi> unto, in their <hi>Militant</hi> Eſtate and Condition.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35285:42"/>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:35285:42"/>
+            <head>The CONTENTS of this ſmall Tract, touching <hi>Sad</hi> Diſconſolate Thoughts.</head>
+            <epigraph>
+               <q>
+                  <bibl>Text. <hi>Pſal.</hi> 94.19.</bibl>
+                  <p>Opened and Explained.</p>
+               </q>
+            </epigraph>
+            <list>
+               <head>
+                  <hi>Obſervation.</hi> Saints ſhould <hi>Watch</hi> a<g ref="char:EOLhyphen"/>gainſt Sad, <hi>Melancholy,</hi> Unbe<g ref="char:EOLhyphen"/>lieving <hi>Thoughts.</hi>
+               </head>
+               <item>
+                  <hi>I.</hi> Such Sad <hi>Diſconſolate</hi> Thoughts, are here deſcribed.</item>
+               <item>
+                  <hi>II.</hi> The <hi>Cauſes</hi> of them are ſet down.
+<list>
+                     <item>Firſt: <hi>Bodily diſtempers, eſpeci<g ref="char:EOLhyphen"/>ally</hi> Melancholy, <hi>do partly cauſe them.</hi>
+                     </item>
+                     <pb facs="tcp:35285:43"/>
+                     <item>
+                        <hi>Secondly:</hi> There are ſpiritual <hi>Cauſes</hi> of theſe Sad Thoughts.
+<list>
+                           <item>
+                              <hi>As 1.</hi> Thoſe remaining <hi>Principles</hi> of Carnal <hi>Reaſon</hi> and <hi>Unbelief</hi> that are in the <hi>Saints.</hi>
+                           </item>
+                           <item>
+                              <hi>2.</hi> They are <hi>Cauſed</hi> by a deep ſenſe of <hi>Sin,</hi> and the deſert of it.</item>
+                           <item>
+                              <hi>3.</hi> By Spiritual <hi>Deſertion,</hi> or Gods hiding His <hi>Face</hi> from the Soul.</item>
+                           <item>
+                              <hi>4.</hi> From the <hi>Sad</hi> apprehenſion of Divine wrath and diſpleaſure.</item>
+                           <item>
+                              <hi>5.</hi> From the <hi>Violent</hi> Temptations and <hi>Injections</hi> of <hi>Satan,</hi> the Prince of <hi>Darkneſs.</hi>
+                           </item>
+                           <item>
+                              <hi>6.</hi> By looking at <hi>Death</hi> in the Terrible <hi>Glaſs</hi> of the violated <hi>Law</hi> of God.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>The <hi>C<g ref="char:V">Ʋ</g>RE</hi> of theſe <hi>Sad</hi> Thoughts.</head>
+               <item>
+                  <hi>I. IF Melancholy</hi> be the Cauſe, then uſe the means which God has ap<g ref="char:EOLhyphen"/>pointed for the <hi>Cure</hi> of it.
+<pb facs="tcp:35285:43"/>
+                  <list>
+                     <item>
+                        <hi>As 1.</hi> Uſe <hi>Phyſick,</hi> moderate <hi>Ex<g ref="char:EOLhyphen"/>erciſe,</hi> good Diet.</item>
+                     <item>
+                        <hi>2.</hi> Let your <hi>Converſe</hi> be with Wiſe, Compaſſionate Chriſtians, that have had <hi>experience</hi> of this ſad Diſtemper, and of <hi>Remedies</hi> againſt it.</item>
+                     <item>
+                        <hi>3. Conſider,</hi> though the cure of <hi>Melancholy</hi> be a torture to Phy<g ref="char:EOLhyphen"/>ſitians, yet God can eaſily <hi>Re<g ref="char:EOLhyphen"/>buke</hi> it.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>II.</hi> If your <hi>Sad</hi> Thoughts be cauſed by <hi>Spiritual</hi> Diſtempers, Then,
+<list>
+                     <item>
+                        <hi>1.</hi> In <hi>General,</hi> endeavour to <hi>Com<g ref="char:EOLhyphen"/>fort</hi> theſe Sad Thoughts by apply<g ref="char:EOLhyphen"/>ing spiritual Remedies.</item>
+                     <item>
+                        <hi>2.</hi> Often <hi>chide</hi> your ſelves for theſe <hi>Sad</hi> Unbelieving <hi>Thoughts.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>
+               <hi>More particularly,</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Firſt:</hi> Does <hi>Satan,</hi> that Spirit of Dark<g ref="char:EOLhyphen"/>neſs, work upon thy <hi>Melancholy</hi>
+                  <pb facs="tcp:35285:44"/>distemper, <hi>Unbelief,</hi> Carnal Rea<g ref="char:EOLhyphen"/>ſon? Then take to thee the <hi>Shield</hi> of Faith, that thou mayeſt <hi>quench</hi> his fiery Darts.</item>
+               <item>
+                  <hi>Secondly:</hi> If thy <hi>Sins</hi> make thee <hi>Sad,</hi> and preſs thee down, go to Chriſt, who freely <hi>Invites</hi> the Soul that's burthened and <hi>heavy</hi> laden.</item>
+               <item>
+                  <hi>Thirdly:</hi> If at preſent thou doeſt not behold the <hi>Face</hi> of God with joy, yet <hi>conſider</hi> His Love is <hi>Unchang<g ref="char:EOLhyphen"/>able,</hi> and whom He Loves once, He loves for ever.</item>
+               <item>
+                  <hi>Fourthly:</hi> If thou haſt <hi>Sad</hi> Appre<g ref="char:EOLhyphen"/>henſions of Divine <hi>Wrath</hi> and Diſ<g ref="char:EOLhyphen"/>pleaſure, remember that Chriſt thy <hi>Surety,</hi> has borne the <hi>Wrath</hi> of God for Sinners.</item>
+               <item>
+                  <hi>Fifthly:</hi> If thou art <hi>Tempted</hi> by Satanical <hi>Injections</hi> to <hi>Blaſphemy,</hi> &amp;c. and doest abhor and reſiſt the Temptation? Conſider it is thy <hi>Tryal,</hi> not thy <hi>Sin.</hi>
+               </item>
+               <pb facs="tcp:35285:44"/>
+               <item>
+                  <hi>Sixthly:</hi> If the fear of <hi>Death</hi> cauſe Sad Thoughts, learn to look at <hi>Death</hi> in the comfortable <hi>Glaſs</hi> of the Goſpel of Chriſt.</item>
+            </list>
+            <list>
+               <head>Some further <hi>Directions</hi> for a poor Soul that's perplexed with <hi>Sad</hi> and dark Thoughts.</head>
+               <item>
+                  <hi>I. Direction.</hi> Call to <hi>Remembrance,</hi> and improve former <hi>evidences</hi> of God's Love and Kindneſs to you.</item>
+               <item>
+                  <hi>II.</hi> Plead and <hi>expoſtulate</hi> humbly with God when He ſeems to <hi>hide</hi> His Face from thee. This <hi>Direction</hi> is drawn out and inlarged in five <hi>parti<g ref="char:EOLhyphen"/>culars.</hi>
+               </item>
+               <item>
+                  <hi>III.</hi> Improve the <hi>Soul</hi> ſorrows and ſufferings of <hi>Chriſt,</hi> who bore the <hi>wrath</hi> of God in His Soul, that thy <hi>ſoul</hi> might rejoyce in God.</item>
+               <item>
+                  <hi>IV.</hi> Renew thy <hi>Faith</hi> and Repen<g ref="char:EOLhyphen"/>tance in good <hi>earneſt,</hi> as if hitherto thou had'ſt never done it to purpoſe.</item>
+               <item>
+                  <hi>V.</hi> Truſt in the <hi>Name</hi> of God <hi>Jeho<g ref="char:EOLhyphen"/>vah</hi>
+                  <pb facs="tcp:35285:45"/>for Comfort and Salvation: There's enough in this <hi>Name</hi> to <hi>ſup<g ref="char:EOLhyphen"/>port</hi> thee under all thy ſad preſſures.</item>
+               <item>
+                  <hi>VI.</hi> Furniſh thy ſelf with <hi>fit</hi> mat<g ref="char:EOLhyphen"/>ter out of the <hi>Holy</hi> Scriptures for Heavenly Thoughts and <hi>Meditations.</hi>
+               </item>
+            </list>
+            <list>
+               <head>
+                  <hi>This was the</hi> practiſe <hi>of the Pro<g ref="char:EOLhyphen"/>phet</hi> David.</head>
+               <item>Of <hi>Job</hi> who eſteemed the <hi>Word</hi> of God more than his neceſſary <hi>Food.</hi>
+               </item>
+               <item>Of <hi>Nepotianus,</hi> whom <hi>Hierom</hi> ſpeaks of.</item>
+               <item>Of <hi>Auguſtin,</hi> and his dear Friend <hi>Alipius.</hi>
+               </item>
+               <item>Of Mr. <hi>Bilney,</hi> Martyr.</item>
+               <item>Of Biſhop <hi>Latimer,</hi> Martyr.</item>
+               <item>Of <hi>Alice Benden,</hi> Martyr.</item>
+               <item>Of Mrs. <hi>Katherine Brettergh.</hi>
+               </item>
+               <item>Of Mr. <hi>John Holland,</hi> an Eminent Saint, and <hi>Preacher</hi> of the Goſpel.</item>
+            </list>
+            <pb facs="tcp:35285:45"/>
+            <list>
+               <head>
+                  <hi>Rules</hi> to be obſerved in reading the <hi>Sacred</hi> Scriptures for the <hi>Comfort</hi> of a <hi>Sad</hi> Diſconſolate <hi>Soul.</hi>
+               </head>
+               <item>
+                  <hi>1. Rule.</hi> Beg <hi>Heavenly</hi> Wiſdom of God, that thou maist diſcern the true <hi>ſenſe</hi> of Scripture.</item>
+               <item>
+                  <hi>2.</hi> Labour for a truly <hi>gracious</hi> ſpirit.</item>
+               <item>
+                  <hi>3.</hi> Come to the <hi>Reading</hi> of Scrip<g ref="char:EOLhyphen"/>ture, for thy <hi>Comfort,</hi> with a Hum<g ref="char:EOLhyphen"/>ble, <hi>Teachable,</hi> Self-denying frame of heart.</item>
+               <item>
+                  <hi>4. Eye</hi> Chriſt for thy <hi>Comfort</hi> and Salvation, as the chief <hi>ſcope,</hi> mar<g ref="char:EOLhyphen"/>row, and <hi>ſubſtance</hi> of the <hi>Scriptures.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Here are four <hi>Conſiderations</hi> ſub<g ref="char:EOLhyphen"/>joyned.</head>
+               <item>
+                  <hi>1. Conſid.</hi> God never <hi>totally</hi> de<g ref="char:EOLhyphen"/>ſerts his <hi>Saints.</hi>
+               </item>
+               <item>
+                  <hi>2.</hi> Though God may <hi>vary</hi> in the O<g ref="char:EOLhyphen"/>perations and <hi>Manifeſtations</hi> of His Love, yet His Love in it ſelf, is ſtill
+<pb facs="tcp:35285:46"/>the ſame, Constant and Everlaſting,</item>
+               <item>
+                  <hi>3.</hi> That thoſe <hi>acts</hi> of Divine Love, which tend to the <hi>Eſſence</hi> and being of a true Chriſtian, God never <hi>with<g ref="char:EOLhyphen"/>holds</hi> from him.</item>
+               <item>
+                  <hi>4.</hi> A Chriſtian may want the <hi>ſen<g ref="char:EOLhyphen"/>ſible</hi> Preſence of God, as to Spiritual <hi>joys</hi> and inlargements, and yet at the ſame time partake of the powerful <hi>in<g ref="char:EOLhyphen"/>fluence</hi> of the Holy Ghoſt for his <hi>Sup<g ref="char:EOLhyphen"/>port.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:35285:46"/>
+            <head>Books Printed, and are to be Sold by <hi>Ben<g ref="char:EOLhyphen"/>jamin Harris,</hi> at the Stationers-Arms, at the Eaſt-end of the Royal-Exchange in <hi>Cornhil.</hi>
+            </head>
+            <list>
+               <head>Quarto.</head>
+               <item>THE Mathematical Jewel. price 3 <hi>s.</hi>
+               </item>
+               <item>
+                  <hi>Newton</hi>'s Help to Calculation, price 2 <hi>s.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Octavo, and Twelves.</head>
+               <item>Lord <hi>Hale</hi>'s Contemplations, Moral and Divine; the Firſt and Second Part. price, 10 <hi>s.</hi>
+               </item>
+               <item>The Hiſtory of <hi>Eraſtus:</hi> Or, The Seven Wiſe-Maſters of <hi>Rome,</hi> Adorned with Cutts: price, 3 <hi>s.</hi>
+               </item>
+               <item>Love to the Life: Or, Some Meditati<g ref="char:EOLhyphen"/>ons of Loving, and Waſhing in the Blood of Chriſt: together, with a Taſt of Goſpel-Promiſes: By <hi>Richard May<g ref="char:EOLhyphen"/>hew.</hi> price bound, 8 <hi>d.</hi>
+               </item>
+               <item>The Accompliſht Ladies Delight, in Pre<g ref="char:EOLhyphen"/>ſerving, Phyſick, Beautifying, and Cooke<g ref="char:EOLhyphen"/>ry: The Second Edition, with large Additions. price, 2 <hi>s.</hi>
+               </item>
+               <item>
+                  <hi>Animae Aſtrologiae:</hi> Or, A Guid to Aſtro<g ref="char:EOLhyphen"/>logers; with a new Table of the fixed Starrs, Rectifyed for ſeveral Years to come, and divers other Illuſtrations: By <hi>W. Lilly,</hi> Student in Aſtrology. price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <pb facs="tcp:35285:47"/>
+               <item>The <hi>Engliſh</hi> Rogue Compleat, pr. 12 <hi>s.</hi>
+               </item>
+               <item>
+                  <hi>Newton</hi>'s Scale of Intereſt. pr. 12 <hi>s.</hi>
+               </item>
+               <item>Warr with the Devil: Or, the Young-Man's Conflict with the Power of Darkneſs; diſcovering the Corruption and Vanity of Youth, the horrible Na<g ref="char:EOLhyphen"/>ture of Sin; in a Dialogue: To which is added, An Appendix, containing a Dialogue between an old Apoſtate, and a young Profeſſor; the Fifth Im<g ref="char:EOLhyphen"/>preſſion: price, 1 <hi>s.</hi>
+               </item>
+               <item>The Second Part of the Warr with the Devil; the Grand Impoſtor Diſcove<g ref="char:EOLhyphen"/>red: Or, The Quaker's Doctrine weigh<g ref="char:EOLhyphen"/>ed in the Ballance, and found wanting; a Poem by way of Dialogue, wherein their chief and moſt concerning Princi<g ref="char:EOLhyphen"/>ples are laid down; and by the Au<g ref="char:EOLhyphen"/>thority of God's holy Word, thereby Refuted: price, 10 <hi>d.</hi>
+               </item>
+               <item>Darkneſs vanquiſht: Or, Truth in its Primitive Purity; being a Treatiſe of Laying on of Hands; together with a Teſtimony of many famous Authors, both Antient and Modern concerning it. price, 1 <hi>s.</hi>
+               </item>
+               <item>
+                  <hi>Sion</hi> in Diſtreſs: Or, The State of the Church. price, 6 <hi>d.</hi>
+               </item>
+               <item>Summons to the Grave: Or, A timely
+<pb facs="tcp:35285:47"/>Preparation for Death; demonſtrated in a Sermon, Preached at the Funeral of <hi>John Norcott,</hi> with two Elegies there<g ref="char:EOLhyphen"/>unto perſixt; price, 8 <hi>d.</hi> All five writ<g ref="char:EOLhyphen"/>ten by <hi>Benjamine Keach,</hi> Miniſter of the Goſpel.</item>
+               <item>The Hiſtory of the Young Converted Gallant: Or, Directions for the Rea<g ref="char:EOLhyphen"/>der, of that Divine Poem, Warr with the Devil; Here ſhewing the Readers thereof, how to read the ſame Poem right in theſe four Reſpects, <hi>&amp;c.</hi>
+                  <list>
+                     <item>Firſt, In reference to the Subſtance or Hiſto<g ref="char:EOLhyphen"/>ry thereof.</item>
+                     <item>
+                        <hi>2dly.</hi> In reference to the Intent or Myſtery thereof.</item>
+                     <item>
+                        <hi>3dly.</hi> In reference to the Conſequent Doctrine thereof.</item>
+                     <item>
+                        <hi>4thly.</hi> In reference to Practi<g ref="char:EOLhyphen"/>cal Application thereof;</item>
+                  </list> Complied in a Poem, by <hi>John Maſon,</hi> Gentleman, of <hi>Fordham</hi> in <hi>Cambridgſhire.</hi> pr. 1 <hi>s.</hi>
+               </item>
+               <item>The Parable of the Kingdom of Heaven; being an Expoſition on the firſt Thirteen Verſes of the Twenty-fifth Chapter of St. <hi>Matthew;</hi> by <hi>Han. Knollis:</hi> price 1 <hi>s.</hi>
+               </item>
+               <item>The Beauty, Vigour, and Strength of Youth, be-ſpoke for God, in a Sermon lately Preached to Young-Men, from the 12th. of <hi>Eccleſiaſtes,</hi> on Verſe firſt: by <hi>Thomas Powel,</hi> Miniſter of the Goſ<g ref="char:EOLhyphen"/>pel: price. 6 <hi>d.</hi>
+               </item>
+               <pb facs="tcp:35285:48"/>
+               <item>Bleſſed Reſt, for the Burthened Sinner: Or, The only Center of the Soul; wherein is diſcovered, firſt, Who He is that Invites, and Calls Sinners to this Reſt. <hi>2dly.</hi> The Incouragement to come unto Him for Reſt. <hi>3dly.</hi> Many Ob<g ref="char:EOLhyphen"/>ſtructions &amp; Impediments, which keeps back Sinners, w<hi rend="sup">th</hi> their Unreaſonableneſs, Anſwered. <hi>4thly.</hi> The Reſt that every one ſhall have, that Comes unto Chriſt: De<g ref="char:EOLhyphen"/>livered in ſeveral Sermons; from <hi>Matthew</hi> 11.28. by <hi>John Hopwood,</hi> Preacher of the Goſpel: price 2 <hi>s.</hi>
+               </item>
+               <item>The Myſtery of the Temple and City de<g ref="char:EOLhyphen"/>ſcribed, in the Nine laſt Chapters of <hi>Ezekiel,</hi> unfolded: Alſo, theſe follow<g ref="char:EOLhyphen"/>ing Particulars are briefly handled; Firſt, The Calling of the <hi>Jews. 2dly.</hi> The Reſtitution of All Things. <hi>3dly.</hi> The Deſcription of the two Beaſts, <hi>Rev.</hi> 13. <hi>4thly.</hi> The Day of Judgment, and the World's Periſhing by Fire. <hi>5thly.</hi> Some Signes of the Times when the Fall of <hi>Bâbylon</hi> is near. <hi>6thly.</hi> Some Advanta<g ref="char:EOLhyphen"/>ges which the Knowledge of theſe Truths will afford. <hi>7thly.</hi> The Conclu<g ref="char:EOLhyphen"/>ſion of All, in ſome Councels and Di<g ref="char:EOLhyphen"/>rections: By <hi>William Alleine,</hi> M. A. ſome times Preacher of the Goſpel at <hi>Briſtol.</hi> price 1 <hi>s.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:35285:48"/>
+         </div>
+      </back>
+   </text>
+</TEI>
